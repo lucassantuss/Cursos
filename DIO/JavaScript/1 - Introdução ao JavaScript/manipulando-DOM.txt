@@ -1,0 +1,11 @@
+// Utilizado no Console Web
+
+-> Hello world!
+document.getElementsByTagName('h1')
+-> HTMLCollection [h1]
+var heading1 = document.getElementsByTagName('h1')[0]
+-> undefined
+heading1
+-> <h1>​Olá mundo!​</h1>​
+heading1.style.color = 'red'
+-> 'red'
