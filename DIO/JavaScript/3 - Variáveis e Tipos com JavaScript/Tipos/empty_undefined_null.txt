@@ -1,0 +1,30 @@
+// Utilizando node.js - EMPTY / UNDEFINED / NULL
+
+> abacaxi  // tipo UNDEFINED
+Uncaught ReferenceError: abacaxi is not defined
+> typeof abacaxi
+'undefined'
+> let abacaxi
+undefined
+> typeof abacaxi
+'undefined'
+
+> abacaxi = '' // tipo EMPTY
+''
+> typeof abacaxi
+'string'
+
+> abacaxi = null  // tipo NULL
+null
+> typeof abacaxi
+'object'
+> abacaxi
+null
+> abacaxi === true
+false
+> abacaxi === false
+false
+> let fruta = abacaxi
+undefined
+> fruta
+null

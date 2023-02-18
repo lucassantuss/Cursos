@@ -1,0 +1,57 @@
+// Utilizando node.js - OBJECTS
+
+> let obj = {}
+undefined
+> typeof obj
+'object'
+> obj.name = 'Julia'
+'Julia'
+> obj
+{ name: 'Julia' }
+> obj.age = 20
+20
+> obj
+{ name: 'Julia', age: 20 }
+> Object.values(obj)
+[ 'Julia', 20 ]
+> Object.keys(obj)
+[ 'name', 'age' ]
+
+> let person  = {name: 'Julia', age: 20, adress: 'Rua 2'}
+undefined
+> person
+{ name: 'Julia', age: 20, adress: 'Rua 2' }
+
+> person.name
+'Julia'
+> person['name']
+'Julia'
+> person['numberOfSiblings'] = 3
+3
+> person
+{ name: 'Julia', age: 20, adress: 'Rua 2', numberOfSiblings: 3 }
+
+> let mom = 'nameOfMom'
+undefined
+> person[mom] = 'Maria' // Pega o valor da variavel e coloca no indice da coluna do object = 'nameOfMom'
+'Maria'
+> person
+{
+  name: 'Julia',
+  age: 20,
+  adress: 'Rua 2',
+  numberOfSiblings: 3,
+  nameOfMom: 'Maria'
+}
+
+> person.mom = 'marta' // Cria um novo indice com nome de 'mom'
+'marta'
+> person
+{
+  name: 'Julia',
+  age: 20,
+  adress: 'Rua 2',
+  numberOfSiblings: 3,
+  nameOfMom: 'Maria',
+  mom: 'marta'
+}

@@ -1,0 +1,71 @@
+// Utilizando node.js - STRINGS
+
+> let nome = 'João'
+undefined
+> nome
+'João'
+> let sobrenome = 'Pedro'
+undefined
+> typeof nome
+'string'
+> nome.concat(sobrenome)
+'JoãoPedro'
+> let concatenado = nome.concat(sobrenome)
+undefined
+> typeof concatenado
+'string'
+> concatenado.length
+9
+> let exemplo = new String ('blablabla')
+undefined
+> typeof exemplo
+'object'
+> exemplo
+[String: 'blablabla']
+> exemplo.length
+9
+
+> nome
+'João'
+> nome[1]
+'o'
+> nome.length
+4
+> concatenado = nome + ' ' + sobrenome;
+'João Pedro'
+> concatenado = `${nome} ${sobrenome}`;
+'João Pedro'
+
+> concatenado = "\""
+'"'
+
+> let frase = 'Ola, tudo bem?'
+undefined
+> frase.split('')
+[
+  'O', 'l', 'a', ',',
+  ' ', 't', 'u', 'd',
+  'o', ' ', 'b', 'e',
+  'm', '?'
+]
+> frase.split(' ')
+[ 'Ola,', 'tudo', 'bem?' ]
+> frase
+'Ola, tudo bem?'
+> frase.includes('tudo')
+true
+> frase.startsWith('O')
+true
+> frase.startsWith('R')
+false
+> frase.endsWith('?')
+true
+
+> frase.replace(',', '!')
+'Ola! tudo bem?'
+> let stringModificada = frase.replace(',', '!')
+undefined
+> frase
+'Ola, tudo bem?'
+> stringModificada
+'Ola! tudo bem?'
