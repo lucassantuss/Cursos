@@ -1,0 +1,35 @@
+// -> Parametros com Valores Padrão
+
+function exponencial(array, num = 1){
+    const result = [];
+
+    for (let i = 0; i < array.length; i++){
+        result.push(array[i] ** num);
+    }
+
+    return result;
+}
+
+exponencial([1, 2, 3, 4])
+// [1, 2, 3, 4]
+
+exponencial([1, 2, 3, 4], 4)
+// [1, 16, 81, 256]
+
+// -> Objeto 'arguments'
+// Pega todos os parametros passados na função e manipula eles independente da quantidade
+
+function findMax(){
+    let max = -Infinity; // para garantir que aceite tanto positivo quanto negativo
+
+    for (let i = 0; i < arguments.length; i++){
+        if (arguments[i] > max) {
+            max = arguments[i];
+        }
+    }
+
+    return max;
+}
+
+findMax(1, 2, 3, 6, 90, 1);
+// 90

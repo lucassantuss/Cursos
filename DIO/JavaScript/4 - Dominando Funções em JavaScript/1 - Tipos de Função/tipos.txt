@@ -1,0 +1,15 @@
+// -> Estrutura da Função
+
+function nome(parametros) {
+    // instruções
+    return; // valor de retorno
+}
+
+// -> Funções Anônimas
+
+const soma = function (a, b){
+    return a + b;
+}
+
+soma(1, 2) // 3
+soma(5, 4) // 9

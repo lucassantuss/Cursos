@@ -1,0 +1,28 @@
+// -> THIS
+
+// this é uma referência pro contexto que você está
+
+// Dentro de um objeto (método)
+const pessoa = {
+    firstName: 'André',
+    lastName: 'Soares',
+    id: 1,
+    fullName: function(){
+        return this.firstName + ' ' + this.lastName;
+    },
+    getId: function(){
+        return this.id;
+    }
+}
+
+pessoa.fullName();
+// André Soares
+
+pessoa.getId();
+// 1
+
+this (no navegador) 
+// retorna window
+
+this no evento
+// retorna o elemento que recebeu o evento (exemplo: button do HTML)

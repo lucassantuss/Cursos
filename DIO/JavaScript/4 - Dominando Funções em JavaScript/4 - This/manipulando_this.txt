@@ -1,0 +1,79 @@
+// -> Manipulando THIS
+
+// -> Método CALL
+// colocar o objeto que o this se definirá
+const pessoa = {
+    nome: 'Miguel'
+};
+
+const animal = {
+    nome: 'Murphy' 
+};
+
+function getSomething(){
+    console.log(this.nome);
+}
+
+getSomething.call(pessoa);
+// Miguel
+
+getSomething.call(animal);
+// Murphy
+
+// É possivel passar parametros usando CALL
+const myObj = {
+    num1: 2,
+    num2: 4
+};
+
+function soma(a, b){
+    console.log(this.num1 + this.num2 + a + b);
+}
+
+soma.call(myObj, 1, 5);
+// 12
+
+// -> Método APPLY
+// colocar o objeto que o this se definirá
+const pessoa = {
+    nome: 'Miguel'
+};
+
+const animal = {
+    nome: 'Godi' 
+};
+
+function getSomething(){
+    console.log(this.nome);
+}
+
+getSomething.apply(pessoa);
+// Miguel
+
+getSomething.apply(animal);
+// Godi
+
+// Parametros usando APPLY dentro de []
+const myObj = {
+    num1: 2,
+    num2: 4
+};
+
+function soma(a, b){
+    console.log(this.num1 + this.num2 + a + b);
+}
+
+soma.apply(myObj, [1, 5]);
+// 12
+
+// -> Método BIND
+// Clona a estrutura da função e aplica o valor passado como parametro
+
+const retornaNomes = function(){
+    return this.nome;
+}
+
+let bruno = retornaNomes.bind({ nome: 'Bruno' });
+
+bruno();
+// Bruno

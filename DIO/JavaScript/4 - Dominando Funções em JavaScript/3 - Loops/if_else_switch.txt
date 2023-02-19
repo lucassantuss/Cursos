@@ -1,0 +1,77 @@
+// -> If.. else
+
+// Solução 1
+function numeroPositivo(num){
+    let resultado;
+
+    if(num < 0){
+        resultado = false;
+    } else{
+        resultado = true;
+    }
+
+    return resultado;
+}
+
+// Solução 2
+function numeroPositivo2(num){
+    let resultado;
+
+    const ehNegativo = num < 0;
+
+    if(ehNegativo){
+        resultado = false;
+    } else{
+        resultado = true;
+    }
+
+    return resultado;
+}
+
+// Solução 3
+function numeroPositivo3(num){
+    const ehNegativo = num < 0;
+    
+    if(ehNegativo){
+        return false;
+    }
+
+    return true;
+}
+
+// Outro Exemplo
+function numeroPostivo4(num){
+    const ehNegativo = num < 0;
+    const maiorQueDez = num > 10;
+
+    if(ehNegativo){
+        return 'Esse número é negativo!';
+    } else if(!ehNegativo && maiorQueDez){
+        return 'Esse número é positivo e maior que 10!'; 
+    }
+
+    return 'Esse número é positivo!';
+}
+
+numeroPositivo(2);  // true
+numeroPositivo(-9); // false
+
+// -> Switch.. case
+// Comparação de tipo e valor (===)
+
+function getAnimal(id){
+    switch(id){
+        case 1:
+            return 'cão';'
+        case 2:
+            return 'gato';
+        case 3:
+            return 'pássaro';
+        default:
+            return 'peixe';
+    }
+}
+
+getAnimal(1); // cão
+getAnimal(4); // peixe
+getAnimal('1'); // peixe
