@@ -1,0 +1,13 @@
+🚩 AJAX
+
+-> Javascript e XML assincrono
+
+🚩 jQuery
+
+-> Biblioteca de funções JavaScript
+
+🎈 Site de API - CEP
+
+-> https://viacep.com.br/ws/09950680/json/
+
+colocar o seu CEP na URL
