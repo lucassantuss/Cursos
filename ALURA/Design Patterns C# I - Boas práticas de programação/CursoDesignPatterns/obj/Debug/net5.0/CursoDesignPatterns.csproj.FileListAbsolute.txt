@@ -1,0 +1,16 @@
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\bin\Debug\net5.0\CursoDesignPatterns.exe
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\bin\Debug\net5.0\CursoDesignPatterns.deps.json
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\bin\Debug\net5.0\CursoDesignPatterns.runtimeconfig.json
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\bin\Debug\net5.0\CursoDesignPatterns.runtimeconfig.dev.json
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\bin\Debug\net5.0\CursoDesignPatterns.dll
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\bin\Debug\net5.0\ref\CursoDesignPatterns.dll
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\bin\Debug\net5.0\CursoDesignPatterns.pdb
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.csproj.AssemblyReference.cache
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.AssemblyInfoInputs.cache
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.AssemblyInfo.cs
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.csproj.CoreCompileInputs.cache
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.dll
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\obj\Debug\net5.0\ref\CursoDesignPatterns.dll
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.pdb
+E:\GITHUB\Cursos\ALURA\Design Patterns C# I - Boas práticas de programação\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.genruntimeconfig.cache
