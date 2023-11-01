@@ -1,0 +1,1 @@
+const ListaDeBotoes = document.querySelectorAll('input[type=button]');
