@@ -1,0 +1,30 @@
+🚩 Navegação de Telas - Function
+
+- Para a navegação dos buttons nas 3 outras páginas criadas,
+foi feito o seguinte código
+
+children: <Widget>[
+  Row(
+    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+    children: <Widget>[
+    _button(context,"ListView", () => _onClickNavigator(context, HelloPage1())),
+    _button(context,"Page 2", () => _onClickNavigator(context, HelloPage2())),
+    _button(context,"Page 3", () => _onClickNavigator(context, HelloPage3())),
+    ],
+  ),
+  Row(
+    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+    children: <Widget>[
+    _button(context,"Snack", _onClickSnack),
+    _button(context,"Dialog", _onClickDialog),
+    _button(context,"Toast", _onClickToast)
+    ],
+  )
+],
+
+
+  void _onClickNavigator(BuildContext context, Widget page) {
+    Navigator.push(context, MaterialPageRoute(builder: (BuildContext context) {
+      return page;
+    }));
+  }

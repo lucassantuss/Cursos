@@ -1,0 +1,44 @@
+🚩 Criar Pasta
+-> Botão direito no Project > New > Directory
+
+Image.asset(name) -> retorna imagem dos assets
+Image.network("") -> retorna imagem de uma URL
+Imagem.file("") -> retorna imagem de um endereço de arquivo salvo no celular
+
+🚩 Sempre que colocar algum arquivo nos assets, precisa ir no
+🚩 pubspec.yaml
+
+-> Descomentar 'assets:'
+-> Nas linhas abaixo, usar 2 tabs (identação) e colocar o caminho do arquivo
+
+assets:
+	- assets/images/
+	
+-> Clicar em 'Get dependencies' caso aparecer
+
+Image.asset("assets/images/dog1.png")
+
+🚩 Propriedade Fit
+-> Fill - Esticar a figura para preencher o espaço (distorcer)
+-> Cover - Recorta a imagem e preenche o espaço
+-> Contain - Ocupa o melhor espaço da figura no tamanho especifico
+
+Image.asset(
+	"assets/images/dog1.png",
+	width: 300,
+	height: 300,
+	fit: BoxFit.fill,
+	// fit: BoxFit.cover,
+	// fit: BoxFit.contain,
+);
+
+🚩 Preencher a tela toda do App
+-> Utilizar o SizedBox.expand como pai do child a ser espandido
+
+child: SizedBox.expand(
+	child: Image.asset(
+		"assets/images/dog1.png",
+		fit: BoxFit.cover,
+	),
+);
+

@@ -1,0 +1,30 @@
+🚩 Reutilizando Widgets
+
+-> lib > New > Package
+-> nomear de 'widgets'
+-> 'widgets' > New > File
+-> nomear de 'blue_button.dart'
+
+🚩 Configurando blue_button.dart
+-> classe stateless, class 'BlueButton'
+-> importar a bilioteca do MaterialDesign
+-> substituir o Container pelos comandos que deixam o botão azul
+
+-> Precisa receber como parametros o text do button
+e o comando onPressed a ser chamado no botão
+
+-> Code > Generate > Constructor
+	String text;
+	Function onPressed;
+	BlueButton(this.text, this.onPressed);
+
+-> Na página Home_Page, basta importar o caminho criado
+-> return BlueButton(text, onPressed);
+
+🎯 Dica
+-> Na hora de criar o Constructor
+
+BlueButton(this.text, { this.onPressed });
+
+-> Se estiver entre { }, o parametro não é obrigatorio
+-> porém pode ser acrescentando { @required this.onPressed }

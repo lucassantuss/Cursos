@@ -1,0 +1,66 @@
+🚩 Configuração e Instalação do Flutter
+
+acessar https://docs.flutter.dev/get-started/install
+-> Clicar em Windows
+💭 Obs: Ter o Windows PowerShell 5.0 instalado
+-> baixar o zip 'flutter_windows_v.zip' (Flutter SDK)
+-> extrair em 'C:\src\flutter'
+
+-> Executar o comando 'flutter doctor' no CMD
+💭 Verifica as pendencias de instalação e o status
+💭 Visualiza os dispositivos conectados
+
+🚩 Criando o Android Studio Project
+💭 Ferramenta de edição / Android SDK / Emulador
+-> Após instalado, clicar em 'Start a new Android Studio project'
+-> Escolher a linguagem 'Java'
+-> Execução teste para baixar os elemento pendentes necessários
+-> Clicar em 'Run' e selecionar o Emulador
+
+🚩 Configurando Emulador - Android Studio
+-> Executar o projeto, e configurar o emulador
+💭 Pode ser criado em 'Tools' > 'AVD Manager'
+-> Clicar em 'Create Virtual Device'
+-> Escolher o 'Nexus 5X'
+-> Escolher o SO 'Oreo - Android 8.0'
+-> Clicar em 'Next' > Renomear e depois em 'Finish'
+
+🚩 Download de Versão do Android SDK
+-> Clicar em 'Tools' > 'SDK Manager'
+💭 Local onde pode ser feito o download das versões do SDK
+-> Deixar atualizado esses arquivos em 'SDK Tools':
+📌 Android SDK Build-Tools 29-rc2
+📌 Android Emulator
+📌 Android SDK Platform-Tools
+📌 Android SDK Tools
+-> Clicar em Update, caso estiver desatualizado
+
+🚩 Configurando o Flutter no Android Studio
+-> Na tela inicial, clicar em 'Configure' > 'Plugins'
+-> Pesquisar por 'Flutter' e 'Dart' e instalar os plugins
+💭 Dessa forma, será exibido a opção na tela inicial de
+💭 'Start a new Flutter project'
+
+🚩 Criação do Projeto com Flutter
+-> Clicar em 'Start a new Flutter project'
+-> Selecione 'Flutter Application'
+-> Altere o nome do projeto, o local e o company domain
+-> Após isso, clicar em 'Create' e depois em 'Run'
+
+🚩 Instalação do Android Studio
+-> acessar https://developer.android.com/studio e fazer o download
+💭 Android SDK / Android Studio / Emulador contidos
+
+🚩 Instalação do Flutter no Windows
+💭 Necessário ter o PowerShell 5.0 instalado
+-> baixar o zip em https://docs.flutter.dev/get-started/install
+-> localizar e executar o flutter_console.bat
+-> digitar 'flutter doctor -v' e pesquisar
+💭 Flutter doctor - Diagnóstico do sistema
+
+🚩 Configurando o PATH do Flutter no Windows
+-> copiar o endereço local da pasta 'flutter\bin'
+-> clicar em 'Meu computador', em Propriedades
+-> Ir em 'Advanced System Settings'
+-> Clicar em 'Variáveis de Ambiente'
+-> Editar o 'PATH', e colocar o 'flutter\bin'

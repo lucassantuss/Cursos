@@ -1,0 +1,42 @@
+🚩 Navegação de Telas - Route
+
+Objetivo é navegar para outras telas ao clicar nos buttons
+
+Devemos utilizar a class Navigator
+
+🏳 Navigator
+
+Necessita de 2 parametros
+
+-> Navigator.push(context, route);
+
+Route redirecionará para a nova página a ser chamada
+
+-> Nova página deve seguir o padrão do Scaffold e do AppBar
+
+🚩 Criar nova página
+-> Clicar em 'lib' > New > Package
+-> Nomeia como 'pages'
+-> E nela será criado as novas páginas
+-> pages > New > File
+-> Nomeia como 'hello_page1.dart'
+
+🚩 Configurar a nova página
+-> Digitar 'st' e escolher o StatelessWidget
+-> Nomeia a class como 'HelloPage1'
+-> Importa a biblioteca do MaterialDesign
+-> import 'package:flutter/material.dart';
+
+🚩 Alterando a Home Page
+-> No lugar de route, coloque:
+
+MaterialPageRoute(builder: (BuildContext context) {
+		return HelloPage1();
+	}
+)
+
+-> Importar o local da nova pagina criada
+-> import 'package:flutter_hello/pages/hello_page1.dart'
+
+🚩 Finalizar a configuração da nova página
+-> Criar o Scaffold e o AppBar com o title 'Page 1'

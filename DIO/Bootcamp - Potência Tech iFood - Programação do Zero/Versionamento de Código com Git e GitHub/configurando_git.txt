@@ -1,0 +1,13 @@
+// ALTERANDO NOME DO USUARIO E EMAIL QUE APARECE NO COMMIT
+
+git config --global user.name "lucassantuss"
+
+git config --global user.email lucassantuss@outlook.com
+
+git config user.name
+git config user.email
+
+// ALTERANDO NOME DA BRANCH DEFAULT
+git config init.defaultBranch (por padrao tá como 'master')
+
+git config --global init.defaultBranch main

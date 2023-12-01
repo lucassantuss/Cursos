@@ -1,0 +1,34 @@
+// COLOQUEI GIT INIT NA PASTA ERRADA
+git init
+
+> Utiliza esse codigo para excluir a força os arquivos
+rm -rf .git
+
+// EDITEI ALGUM ARQUIVO E SALVEI ERRADO, RESTAURAR O CODIGO
+git restore README.md
+
+// ALTERAR MENSAGEM DO ÚLTIMO COMMIT
+git commit --amend -m"nova mensagem"
+
+// RESTAURAR COMMITS ANTERIORES AO ATUAL
+git reset --soft [HASH-DO-COMMIT-RESTAURADO]
+> arquivos de commits mais recentes ficam
+> na área de preparação
+
+git reset --mixed [HASH-DO-COMMIT-RESTAURADO]
+> mixed -> comportamento padrão
+> arquivos de commits mais recentes ficam 
+> na árvore de trabalho, sem o git add
+
+git reset --hard [HASH-DO-COMMIT-RESTAURADO]
+> ignora os arquivos posteriores a esse commit
+
+// STATUS DAS ALTERAÇÕES
+git log
+git reflog (mais detalhado)
+
+// REMOVER ARQUIVO ESPECIFICO DA ÁREA DE PREPARAÇÃO
+touch resumos/aula1.md resumos/aula2.md
+git add .
+git reset resumos/aula1.md
+git restore --staged resumos/aula2.md

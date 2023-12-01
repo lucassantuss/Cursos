@@ -1,0 +1,21 @@
+// CRIAR PASTA
+mkdir repo-local
+cd repo-local
+git init // INICIALIZA REPOSITÓRIO
+cd .git
+ls
+cat config
+
+// CLONANDO REPOSITÓRIO
+git clone [URL-HTTPS]
+git clone [URL-HTTPS] repo-clonado
+
+// CLONE APENAS DE UMA BRANCH
+git clone [URL-HTTPS] --branch feature-1 --single-branch
+git clone [URL-HTTPS] --single-branch (clona apenas a principal)
+
+// VERIFICAR REPOSITÓRIOS REMOTOS ASSOCIADOS
+git remote -v
+
+// ADICIONAR REPOSITÓRIO REMOTO ASSOCIADO
+git remote add origin [URL-HTTPS]

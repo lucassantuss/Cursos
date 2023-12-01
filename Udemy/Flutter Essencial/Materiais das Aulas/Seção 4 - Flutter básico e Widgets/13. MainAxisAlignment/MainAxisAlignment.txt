@@ -1,0 +1,12 @@
+🚩 mainAxisAlignment
+
+main -> eixo principal
+cross -> eixo cruzado
+
+mainAxisAlignment: MainAxisAlignment.start // Padrão, alinhado no inicio
+mainAxisAlignment: MainAxisAlignment.center // centraliza o eixo principal
+mainAxisAlignment: MainAxisAlignment.end // Alinhado no fim
+
+Só funciona com:
+
+-> mainAxisSize: MainAxisSize.max,

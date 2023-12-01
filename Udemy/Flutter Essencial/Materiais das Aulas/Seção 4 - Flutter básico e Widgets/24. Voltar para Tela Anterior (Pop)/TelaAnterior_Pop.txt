@@ -1,0 +1,12 @@
+🚩 Voltar para a tela anterior (Pop)
+
+Objetivo é navegar para outras telas ao clicar nos buttons
+
+Devemos utilizar a class Navigator
+
+🏳 Navigator e Comando Pop
+
+-> Necessita de 1 parametro
+-> Voltar para a tela anterior
+
+-> Navigator.pop(context);

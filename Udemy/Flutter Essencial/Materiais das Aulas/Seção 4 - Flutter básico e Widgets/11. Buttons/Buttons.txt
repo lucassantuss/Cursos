@@ -1,0 +1,24 @@
+🚩 Button
+
+-> RaisedButton();
+-> Deve se utilizar o comando onPressed:
+
+RaisedButton(
+	child: Text("OK"),
+	onPressed: () {
+		print("Clicou no botão!");
+	},
+);
+
+ou
+
+onPressed: () => print("Clicou no botão!");
+onPressed: () => _onClickOk()
+onPressed: _onClickOk; // Caso não houver parametros no metodo
+
+🚩 Button NULL
+se a sintaxe for a mostrada abaixo
+
+onPressed: null
+
+o botão será desabilitado

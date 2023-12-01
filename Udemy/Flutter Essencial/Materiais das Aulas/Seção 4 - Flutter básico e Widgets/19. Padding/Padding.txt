@@ -1,0 +1,18 @@
+🚩 Padding
+
+-> Clique no Container
+-> ALT + ENTER
+-> Selecione 'Add Padding'
+Mas pode ser usado o atributo padding dentro do Container
+
+padding: const EdgeInsets.all(16),
+
+🏳 EdgeInsets.all
+-> Define o mesmo valor de espaçamento para todos os cantos
+
+padding: EdgeInsets.all(20),
+
+🏳 EdgeInsets.only
+-> Define o valor de espaçamento para a posição especifica
+
+padding: EdgeInsets.only(top:20, right:20),

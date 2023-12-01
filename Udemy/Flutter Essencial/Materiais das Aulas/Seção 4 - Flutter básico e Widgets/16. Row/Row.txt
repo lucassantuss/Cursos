@@ -1,0 +1,16 @@
+🚩 Row - Alinhamento
+
+🏳 spaceAround
+// Alinha as margens em ambos os lados e entre os campos
+
+-> mainAxisAlignment: MainAxisAlignmente.spaceAround
+
+🏳 spaceBetween
+// Alinha o espaço entre os campos internos
+
+-> mainAxisAlignment: MainAxisAlignmente.spaceBetween
+
+🏳 spaceEvenly
+// Alinha todos os espaços com o mesmo tamanho
+
+-> mainAxisAlignment: MainAxisAlignmente.spaceEvenly

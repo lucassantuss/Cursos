@@ -1,0 +1,14 @@
+🚩 Navegação de Telas - Context
+
+Objetivo é navegar para outras telas ao clicar nos buttons
+
+Devemos utilizar a class Navigator
+
+🏳 Navigator
+
+Necessita de 2 parametros
+
+-> Navigator.push(context, route);
+
+Context deve vir de 'Widget build(BuildContext context)' por parametro
+no decorrer dos metodos que são necessários

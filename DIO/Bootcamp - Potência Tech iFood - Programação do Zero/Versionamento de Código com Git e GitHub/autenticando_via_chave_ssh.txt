@@ -1,0 +1,35 @@
+// CLONAR O REPOSITORIO NA MAQUINA
+git clone [url-do-repositorio-github-SSH]
+--> digita yes
+--> colocar senha da chave ssh
+
+// CRIAR CHAVE SSH NO GITHUB
+> Settings > Access > SSH and GPG Keys
+> New SSH Key
+> Title da chave
+> Key Type -> Authentication Key
+> cola a chave obtida no passo abaixo
+> ADD SSH Key
+
+// LOCALIZAR E VISUALIZAR CHAVE SSH NA MAQUINA
+cd ~/.ssh
+ls
+cat id_ed25519.pub
+> copia a chave e cola no passo acima
+
+// VERIFICAR SE JÁ EXISTEM CHAVES SSH NA MAQUINA 
+ls -al ~/.ssh
+
+// GERAR CHAVE SSH NO GIT BASH
+ssh-keygen -t ed25519 -C "lucassantuss@outlook.com"
+> 'enter' para escolher o local padrão para salvar a chave
+> inserir senha..
+> chave gerada
+
+// EXECUTAR SSH AGENT
+eval "$(ssh-agent -s)"
+> ssh agent startado
+
+// ADICIONANDO CHAVE SSH NO SSH-AGENT
+ssh-add ~/.ssh/id_ed25519
+> coloca a senha digitada anteriormente..

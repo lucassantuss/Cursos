@@ -1,0 +1,11 @@
+🚩 Margin
+
+🏳 EdgeInsets.all
+-> Define o mesmo valor para todos os cantos da margem
+
+margin: EdgeInsets.all(20),
+
+🏳 EdgeInsets.only
+-> Define o valor da margem para a posição especifica
+
+margin: EdgeInsets.only(top:20, right:20),

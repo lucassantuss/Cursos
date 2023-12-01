@@ -1,0 +1,18 @@
+🚩 Voltar para a tela anterior (Pop) com Parametros
+
+-> Navigator.pop(context, "Tela 2");
+
+🏳 Utilizando comando assincrono
+-> Push é do tipo future, permite async
+-> Nesse caso, usar async e await
+
+  void _onClickNavigator(BuildContext context, Widget page) async {
+    String s = await Navigator.push(context, MaterialPageRoute(builder: (BuildContext context) {
+      return page;
+    }));
+
+    print(">> $s");
+  }
+  
+-> Retorna o valor correspondente no Console
+>> Tela 2

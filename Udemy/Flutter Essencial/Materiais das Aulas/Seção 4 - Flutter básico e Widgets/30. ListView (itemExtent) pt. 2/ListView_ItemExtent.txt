@@ -1,0 +1,6 @@
+🚩 ListView - ItemExtent
+
+-> Serve para definir um tamanho padrão das células
+-> Todas as fotos do ListView com mesmo tamanho
+
+itemExtent: 350, // altura de 350

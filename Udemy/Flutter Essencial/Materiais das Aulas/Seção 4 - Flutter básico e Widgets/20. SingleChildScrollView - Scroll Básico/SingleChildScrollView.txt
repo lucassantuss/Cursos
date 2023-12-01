@@ -1,0 +1,5 @@
+🚩 SingleChildScrollView
+
+Possibilita a rolagem dinâmica da tela, com o uso do Scroll
+
+-> Substituir o 'Container' por 'SingleChildScrollView'

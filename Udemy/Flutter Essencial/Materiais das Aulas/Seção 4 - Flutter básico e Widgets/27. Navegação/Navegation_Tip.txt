@@ -1,0 +1,29 @@
+🚩 Navegação
+
+-> Otimização do método Navigator.push
+
+String s = await push(context, page);
+
+-> Criar uma função 'push'
+
+Future push(BuildContext context, Widget page) {
+  return Navigator.push(context, MaterialPageRoute(builder: (BuildContext context) {
+    return page;
+  }));
+}
+
+-> comandos na Home_Page
+
+  void _onClickNavigator(BuildContext context, Widget page) async {
+
+    String s = await push(context, page);
+
+    print(">> $s");
+  }
+
+🏳 Criar Novo Package
+
+-> lib > New > Package
+-> nomear de 'utils'
+-> 'utils' > New > File
+-> nomear de 'nav.dart'

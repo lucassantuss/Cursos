@@ -1,0 +1,26 @@
+🚩 crossAxisAlignment
+
+main -> eixo principal
+cross -> eixo cruzado
+
+crossAxisAlignment: CrossAxisAlignment.start // alinhado no inicio
+crossAxisAlignment: CrossAxisAlignment.center // Padrão, centraliza o eixo cruzado
+crossAxisAlignment: CrossAxisAlignment.end // Alinhado no fim
+
+Só funciona se definir o height (altura) do Container em questão
+
+-> height: double.infinity, // Preenche toda a tela com o container
+
+Ou pode ser usado o MediaQuery
+
+no metodo _body(context), recebe-se o parametro 'context'
+que vem do 'Widget build(BuildContext context) da class Pai'
+
+e utiliza-se a seguinte variavel
+
+-> Size size = MediaQuery.of(context).size;
+
+e substitui para:
+
+-> height: size.height,
+-> width: size.width,

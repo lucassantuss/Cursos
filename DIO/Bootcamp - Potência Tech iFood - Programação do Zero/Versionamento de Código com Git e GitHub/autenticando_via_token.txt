@@ -1,0 +1,20 @@
+// CLONAR O REPOSITORIO NA MAQUINA
+git clone [url-do-repositorio-github-HTTPS]
+--> colocar nome de usuario
+--> colocar token no lugar da senha
+
+// CRIAR TOKEN NO GITHUB
+> Settings > Developer Settings > Personal access tokens > Tokens (classic)
+> Generate new token (classic)
+
+// SALVAR TOKEN GERADO NA MAQUINA
+git config --global credential.helper store
+
+**cache (salva a credential temporariamente na maquina)
+
+// VERIFICAR ONDE A CONFIGURAÇÃO ESTÁ ARMAZENADA
+git config --global --show-origin credential.helper
+
+// EXIBE DADOS DO ARQUIVO NA PASTA
+cat .gitconfig
+cat .gitcredentials

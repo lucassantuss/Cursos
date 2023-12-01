@@ -1,0 +1,26 @@
+🚩 ListView Dinâmico - Builder
+
+-> Maneira de criar um ListView Dinâmico
+
+-> Criar array de imgs
+
+    List<Image> imgs = [
+      _img("assets/images/dog1.png"),
+      _img("assets/images/dog2.png"),
+      _img("assets/images/dog3.png"),
+      _img("assets/images/dog4.png"),
+      _img("assets/images/dog5.png")
+    ];
+
+-> Criar o ListView.Builder
+💭 Importante que tenha o itemCount com a qtd de itens
+
+    return ListView.builder(
+      itemCount: imgs.length,
+      itemExtent: 300,
+      itemBuilder: (BuildContext context, int index) {
+        return imgs[index];
+      },
+    );
+
+-> Antigo 'Adapter' (Android) e 'DataSource' (iOS)

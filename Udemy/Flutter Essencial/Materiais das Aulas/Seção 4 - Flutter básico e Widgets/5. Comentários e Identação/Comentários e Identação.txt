@@ -1,0 +1,9 @@
+// Dica para mostrar os comentários
+
+Ir em Preferences >
+Filtrar por Dart >
+Editor > General > Appearence
+Selecionar 'Show closing labels in Dart source code'
+
+// Reformatar o Código
+Code > Reformat Code

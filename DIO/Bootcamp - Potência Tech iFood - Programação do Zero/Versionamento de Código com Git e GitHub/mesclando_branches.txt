@@ -1,0 +1,50 @@
+// CRIANDOS 3 COMMITS DISTINTOS
+echo "#commit-0-branch-main" > commit-0-branch-main.txt
+git add .
+git commit -m"commit 0"
+
+echo "#commit-1-branch-main" > commit-1-branch-main.txt
+git add .
+git commit -m"commit 1"
+
+echo "#commit-2-branch-main" > commit-2-branch-main.txt
+git add .
+git commit -m"commit 2"
+
+> 3 commits apontados para branch main
+
+// TROCAR DA BRANCH ATUAL (MAIN) PARA OUTRA
+git checkout -b teste
+
+git log
+> branch main e teste apontando pro ultimo commit
+
+echo "#commit-3-branch-teste" > commit-3-branch-teste.txt
+git add .
+git commit -m"commit 3"
+git log
+
+> commit apontando para a branch teste, diferentes dos demais
+
+// RETORNA PARA A BRANCH PRINCIPAL (sem o commit 3)
+git checkout main
+
+// LISTA ÚLTIMOS COMMITS DAS BRANCHES
+git branch -v
+
+// PARA QUE OS COMMITS DE 'TESTE' APAREÇA EM 'MAIN'
+git merge teste
+> mescla a branch teste na principal main
+
+// EXCLUIR UMA BRANCH
+git branch -d teste
+
+// Se houver conflito, use pull, resolva e faça o commit
+git push origin main
+[deu conflito]
+git pull
+[ajusta o conflito nos arquivos]
+git status
+git add .
+git commit -m"commit depois do conflito"
+git push origin main

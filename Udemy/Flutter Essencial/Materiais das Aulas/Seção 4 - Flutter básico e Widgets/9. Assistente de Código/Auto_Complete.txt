@@ -1,0 +1,22 @@
+Dicas de autocomplete da instrução do comando no código
+
+-> digitar o começo do texto e deixar o assistente completar para otimizar o tempo gasto e precisão
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+// Apagar um campo que tem child de outro
+
+-> Antes
+child: Center (
+	child: _text(),
+),
+
+-> ALT + ENTER
+-> Selecionar 'Replace widget with its children'
+
+-> Depois
+child: _text(),
+
+// Colocar um campo que tem child de outro
+-> ALT + ENTER
+-> Selecionar 'Center widget'

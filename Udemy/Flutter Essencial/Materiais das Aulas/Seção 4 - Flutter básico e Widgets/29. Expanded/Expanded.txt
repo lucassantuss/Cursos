@@ -1,0 +1,16 @@
+🚩 Widget Expanded
+
+-> child: column(), não consegue descobrir o tamanho por si
+-> precisa especificar o tamanho dos filhos
+
+🎈 Explicação
+-> Por isso que foi copiado somente o PageView
+
+-> Substituir 'Container' por 'Expanded'
+-> Dessa forma, evita overflow de tamanho na tela
+-> Deixa componentes do mesmo tamanho na tela
+
+🏳 Flex
+-> Flex no 'Expanded', da para voce definir o peso de cada componente
+
+-> Com 'Expanded', não precisa de color e height

@@ -1,0 +1,13 @@
+git add .
+git commit -m"commit realizado"
+
+git remote add origin [URL-HTTPS]
+
+// ENVIA ALTERAÇÕES DO REPOSITÓRIO LOCAL PARA O REMOTO
+git push -u origin main
+
+// ENVIA ALTERAÇÕES DO REPOSITÓRIO REMOTO PARA O LOCAL
+git pull
+
+> clicar . no repositório no GitHub Web 
+> abre uma versão de edição semelhante ao VSCODE

@@ -1,0 +1,34 @@
+// CRIA DIRETORIO
+mkdir repo-dio
+cd repo-dio
+
+// INICIALIZA REPOSITÓRIO GIT
+git init
+
+// STATUS DAS ALTERAÇÕES
+git status
+
+// CRIA ARQUIVO
+touch README.md
+git status
+
+// SITE PARA FAZER README
+https://readme.so/pt/editor
+
+// ADICIONAR NA ÁREA DE PREPARAÇÃO
+git add README.md
+
+// ADICIONAR TODOS OS PENDENTES NA ÁREA DE PREPARAÇÃO
+git add .
+
+// REALIZAR O COMMIT
+git commit -m"commit inicial"
+
+// STATUS DOS COMMITS E MUDANÇAS
+git log
+
+// PREENCHER O GIT IGNORE (ARQUIVOS QUE NÃO SERAM SALVOS)
+echo resumos/ > .gitignore
+
+// CONVENÇÃO PARA O GIT RECONHECER DIRETÓRIO VAZIO
+touch aulas/.gitkeep

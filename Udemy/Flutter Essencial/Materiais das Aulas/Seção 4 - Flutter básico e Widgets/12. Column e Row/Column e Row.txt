@@ -1,0 +1,29 @@
+🚩 Column e ROW
+
+Column posiciona os elementos verticalmente
+-> (um em cima do outro)
+
+Row posiciona os elementos horizontalmente 
+-> (um do lado do outro)
+
+-> Column
+child: Column(
+	children: <Widget> [
+		_button(),
+		_button(),
+		_button()
+	],
+),
+
+-> ROW
+child: Row(
+	children: <Widget> [
+		_button(),
+		_button(),
+		_button()
+	],
+),
+
+
+Próximas Aulas...
+❓ crossAxisAlignment e mainAxisAlignment
