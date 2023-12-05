@@ -1,0 +1,8 @@
+// OFICIAL
+https://github.com/digitalinnovationone/dio-lab-open-source
+
+// FORKED
+https://github.com/lucassantuss/dio-lab-open-source
+
+// ISSUE EXPLICANDO O DESAFIO
+https://github.com/digitalinnovationone/dio-lab-open-source/issues/5587
