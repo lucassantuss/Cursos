@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\bin\Debug\netcoreapp3.1\Aula03_Sets.exe
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\bin\Debug\netcoreapp3.1\Aula03_Sets.deps.json
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\bin\Debug\netcoreapp3.1\Aula03_Sets.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\bin\Debug\netcoreapp3.1\Aula03_Sets.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\bin\Debug\netcoreapp3.1\Aula03_Sets.dll
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\bin\Debug\netcoreapp3.1\Aula03_Sets.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\obj\Debug\netcoreapp3.1\Aula03_Sets.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\obj\Debug\netcoreapp3.1\Aula03_Sets.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\obj\Debug\netcoreapp3.1\Aula03_Sets.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\obj\Debug\netcoreapp3.1\Aula03_Sets.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\obj\Debug\netcoreapp3.1\Aula03_Sets.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\obj\Debug\netcoreapp3.1\Aula03_Sets.dll
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\obj\Debug\netcoreapp3.1\Aula03_Sets.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\03 - O Poder dos Sets\Aula03_Sets\Aula03_Sets\obj\Debug\netcoreapp3.1\Aula03_Sets.genruntimeconfig.cache

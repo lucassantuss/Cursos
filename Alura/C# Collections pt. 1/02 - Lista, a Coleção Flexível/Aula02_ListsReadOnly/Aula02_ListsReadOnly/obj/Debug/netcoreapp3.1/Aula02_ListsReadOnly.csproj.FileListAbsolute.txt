@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\bin\Debug\netcoreapp3.1\Aula02_ListsReadOnly.exe
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\bin\Debug\netcoreapp3.1\Aula02_ListsReadOnly.deps.json
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\bin\Debug\netcoreapp3.1\Aula02_ListsReadOnly.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\bin\Debug\netcoreapp3.1\Aula02_ListsReadOnly.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\bin\Debug\netcoreapp3.1\Aula02_ListsReadOnly.dll
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\bin\Debug\netcoreapp3.1\Aula02_ListsReadOnly.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\obj\Debug\netcoreapp3.1\Aula02_ListsReadOnly.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\obj\Debug\netcoreapp3.1\Aula02_ListsReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\obj\Debug\netcoreapp3.1\Aula02_ListsReadOnly.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\obj\Debug\netcoreapp3.1\Aula02_ListsReadOnly.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\obj\Debug\netcoreapp3.1\Aula02_ListsReadOnly.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\obj\Debug\netcoreapp3.1\Aula02_ListsReadOnly.dll
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\obj\Debug\netcoreapp3.1\Aula02_ListsReadOnly.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsReadOnly\Aula02_ListsReadOnly\obj\Debug\netcoreapp3.1\Aula02_ListsReadOnly.genruntimeconfig.cache

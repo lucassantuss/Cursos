@@ -1,0 +1,32 @@
+O que aprendemos?
+
+Declarando uma lista
+A lista como um array dinâmico
+A sintaxe de uma lista de strings em C#
+Declarando e inicializando uma lista
+Inicializando uma lista vazia
+Índices
+Acessando elementos de uma lista
+Adicionando elementos
+Removendo elementos
+Procurando elementos
+Encontrando a primeira ocorrência
+Encontrando a última ocorrência
+Verificando se um elemento está contido ou não
+Revertendo lista
+Acessando elementos pelo índices
+Removendo elemento pelo índice
+Ordenando lista
+Copiando lista
+Clonando lista
+Limpando elementos de uma lista
+Trabalhando com listas de objetos custom
+Sobreescrevendo o método ToString()
+Implementando a interface IComparable
+Implementando o método CompareTo()
+Utilizando o método Sort()
+Expressão lambda como argumento do método Sort()
+A interface IList
+Listas somente-leitura com ReadOnlyCollection
+Acumulando valores de objetos de uma lista
+Somando valores com o método Sum()

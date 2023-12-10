@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\bin\Debug\netcoreapp3.1\Aula01_Arrays.exe
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\bin\Debug\netcoreapp3.1\Aula01_Arrays.deps.json
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\bin\Debug\netcoreapp3.1\Aula01_Arrays.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\bin\Debug\netcoreapp3.1\Aula01_Arrays.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\bin\Debug\netcoreapp3.1\Aula01_Arrays.dll
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\bin\Debug\netcoreapp3.1\Aula01_Arrays.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\obj\Debug\netcoreapp3.1\Aula01_Arrays.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\obj\Debug\netcoreapp3.1\Aula01_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\obj\Debug\netcoreapp3.1\Aula01_Arrays.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\obj\Debug\netcoreapp3.1\Aula01_Arrays.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\obj\Debug\netcoreapp3.1\Aula01_Arrays.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\obj\Debug\netcoreapp3.1\Aula01_Arrays.dll
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\obj\Debug\netcoreapp3.1\Aula01_Arrays.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\01 - Começando com Arrays\Aula01_Arrays\Aula01_Arrays\obj\Debug\netcoreapp3.1\Aula01_Arrays.genruntimeconfig.cache

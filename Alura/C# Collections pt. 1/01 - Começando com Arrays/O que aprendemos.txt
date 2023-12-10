@@ -1,0 +1,18 @@
+O que aprendemos?
+
+Declarando um array
+A sintaxe de um array em C#
+Declarando e inicializando um array
+Inicializando um array vazio com uma dimensão
+Imprimindo elementos de um array
+Índices
+Procurando índices de um elemento
+Encontrando a primeira ocorrência
+Encontrando a última ocorrência
+Revertendo arrays
+Redimensionando arrays
+Acessando elementos pelo índices
+Ordenando arrays
+Copiando arrays
+Clonando arrays
+Limpando elementos de um array

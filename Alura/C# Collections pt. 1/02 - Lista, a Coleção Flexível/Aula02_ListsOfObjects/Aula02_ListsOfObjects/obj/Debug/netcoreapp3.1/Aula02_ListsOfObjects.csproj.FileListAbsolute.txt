@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\bin\Debug\netcoreapp3.1\Aula02_ListsOfObjects.exe
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\bin\Debug\netcoreapp3.1\Aula02_ListsOfObjects.deps.json
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\bin\Debug\netcoreapp3.1\Aula02_ListsOfObjects.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\bin\Debug\netcoreapp3.1\Aula02_ListsOfObjects.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\bin\Debug\netcoreapp3.1\Aula02_ListsOfObjects.dll
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\bin\Debug\netcoreapp3.1\Aula02_ListsOfObjects.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\obj\Debug\netcoreapp3.1\Aula02_ListsOfObjects.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\obj\Debug\netcoreapp3.1\Aula02_ListsOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\obj\Debug\netcoreapp3.1\Aula02_ListsOfObjects.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\obj\Debug\netcoreapp3.1\Aula02_ListsOfObjects.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\obj\Debug\netcoreapp3.1\Aula02_ListsOfObjects.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\obj\Debug\netcoreapp3.1\Aula02_ListsOfObjects.dll
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\obj\Debug\netcoreapp3.1\Aula02_ListsOfObjects.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_ListsOfObjects\Aula02_ListsOfObjects\obj\Debug\netcoreapp3.1\Aula02_ListsOfObjects.genruntimeconfig.cache

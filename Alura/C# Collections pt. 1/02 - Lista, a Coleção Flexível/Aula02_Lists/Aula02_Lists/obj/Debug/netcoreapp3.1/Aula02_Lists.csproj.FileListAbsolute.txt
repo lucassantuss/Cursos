@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\bin\Debug\netcoreapp3.1\Aula02_Lists.exe
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\bin\Debug\netcoreapp3.1\Aula02_Lists.deps.json
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\bin\Debug\netcoreapp3.1\Aula02_Lists.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\bin\Debug\netcoreapp3.1\Aula02_Lists.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\bin\Debug\netcoreapp3.1\Aula02_Lists.dll
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\bin\Debug\netcoreapp3.1\Aula02_Lists.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\obj\Debug\netcoreapp3.1\Aula02_Lists.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\obj\Debug\netcoreapp3.1\Aula02_Lists.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\obj\Debug\netcoreapp3.1\Aula02_Lists.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\obj\Debug\netcoreapp3.1\Aula02_Lists.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\obj\Debug\netcoreapp3.1\Aula02_Lists.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\obj\Debug\netcoreapp3.1\Aula02_Lists.dll
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\obj\Debug\netcoreapp3.1\Aula02_Lists.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\02 - Lista, a Coleção Flexível\Aula02_Lists\Aula02_Lists\obj\Debug\netcoreapp3.1\Aula02_Lists.genruntimeconfig.cache
