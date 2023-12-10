@@ -1,0 +1,14 @@
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\bin\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.exe
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\bin\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.deps.json
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\bin\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.runtimeconfig.json
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\bin\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.runtimeconfig.dev.json
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\bin\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.dll
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\bin\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.pdb
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\obj\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.csproj.AssemblyReference.cache
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\obj\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\obj\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.AssemblyInfoInputs.cache
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\obj\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.AssemblyInfo.cs
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\obj\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.csproj.CoreCompileInputs.cache
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\obj\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.dll
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\obj\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.pdb
+D:\Projetos\Aula03_EqualsAndHashCode\Aula03_EqualsAndHashCode\obj\Debug\netcoreapp3.1\Aula03_EqualsAndHashCode.genruntimeconfig.cache

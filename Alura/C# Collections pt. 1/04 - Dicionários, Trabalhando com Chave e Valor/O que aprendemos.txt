@@ -1,0 +1,8 @@
+O que aprendemos?
+
+Introdução ao dicionário
+Sintaxe C# de um dicionário
+Armazenando valor pela chave
+Recuperando valores pela chave
+Obtendo valor com segurança com TryGetValue
+Substituindo um valor com uma chave preexistente

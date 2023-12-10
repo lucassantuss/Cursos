@@ -1,0 +1,14 @@
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\bin\Debug\netcoreapp3.1\Aula03_SetsInTheModel.exe
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\bin\Debug\netcoreapp3.1\Aula03_SetsInTheModel.deps.json
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\bin\Debug\netcoreapp3.1\Aula03_SetsInTheModel.runtimeconfig.json
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\bin\Debug\netcoreapp3.1\Aula03_SetsInTheModel.runtimeconfig.dev.json
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\bin\Debug\netcoreapp3.1\Aula03_SetsInTheModel.dll
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\bin\Debug\netcoreapp3.1\Aula03_SetsInTheModel.pdb
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\obj\Debug\netcoreapp3.1\Aula03_SetsInTheModel.csproj.AssemblyReference.cache
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\obj\Debug\netcoreapp3.1\Aula03_SetsInTheModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\obj\Debug\netcoreapp3.1\Aula03_SetsInTheModel.AssemblyInfoInputs.cache
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\obj\Debug\netcoreapp3.1\Aula03_SetsInTheModel.AssemblyInfo.cs
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\obj\Debug\netcoreapp3.1\Aula03_SetsInTheModel.csproj.CoreCompileInputs.cache
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\obj\Debug\netcoreapp3.1\Aula03_SetsInTheModel.dll
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\obj\Debug\netcoreapp3.1\Aula03_SetsInTheModel.pdb
+D:\Projetos\Aula03_SetsInTheModel\Aula03_SetsInTheModel\obj\Debug\netcoreapp3.1\Aula03_SetsInTheModel.genruntimeconfig.cache

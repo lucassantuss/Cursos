@@ -1,0 +1,12 @@
+O que aprendemos?
+
+as propriedades do Set
+não permite duplicidade
+elementos não são mantidos em ordem específica
+a classe HashSet
+adicionando elementos
+removendo elementos
+ordenando elementos
+o método Equals()
+o método GetHashCode()
+entendo código de dispersão e hashing
