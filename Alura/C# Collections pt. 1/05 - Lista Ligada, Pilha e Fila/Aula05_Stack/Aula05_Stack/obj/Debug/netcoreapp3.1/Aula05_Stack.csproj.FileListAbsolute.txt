@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\bin\Debug\netcoreapp3.1\Aula05_Stack.exe
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\bin\Debug\netcoreapp3.1\Aula05_Stack.deps.json
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\bin\Debug\netcoreapp3.1\Aula05_Stack.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\bin\Debug\netcoreapp3.1\Aula05_Stack.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\bin\Debug\netcoreapp3.1\Aula05_Stack.dll
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\bin\Debug\netcoreapp3.1\Aula05_Stack.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\obj\Debug\netcoreapp3.1\Aula05_Stack.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\obj\Debug\netcoreapp3.1\Aula05_Stack.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\obj\Debug\netcoreapp3.1\Aula05_Stack.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\obj\Debug\netcoreapp3.1\Aula05_Stack.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\obj\Debug\netcoreapp3.1\Aula05_Stack.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\obj\Debug\netcoreapp3.1\Aula05_Stack.dll
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\obj\Debug\netcoreapp3.1\Aula05_Stack.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_Stack\Aula05_Stack\obj\Debug\netcoreapp3.1\Aula05_Stack.genruntimeconfig.cache

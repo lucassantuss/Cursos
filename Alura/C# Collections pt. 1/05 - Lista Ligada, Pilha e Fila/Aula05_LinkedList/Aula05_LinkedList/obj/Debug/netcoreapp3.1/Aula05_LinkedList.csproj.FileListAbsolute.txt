@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\bin\Debug\netcoreapp3.1\Aula05_LinkedList.exe
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\bin\Debug\netcoreapp3.1\Aula05_LinkedList.deps.json
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\bin\Debug\netcoreapp3.1\Aula05_LinkedList.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\bin\Debug\netcoreapp3.1\Aula05_LinkedList.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\bin\Debug\netcoreapp3.1\Aula05_LinkedList.dll
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\bin\Debug\netcoreapp3.1\Aula05_LinkedList.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\obj\Debug\netcoreapp3.1\Aula05_LinkedList.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\obj\Debug\netcoreapp3.1\Aula05_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\obj\Debug\netcoreapp3.1\Aula05_LinkedList.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\obj\Debug\netcoreapp3.1\Aula05_LinkedList.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\obj\Debug\netcoreapp3.1\Aula05_LinkedList.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\obj\Debug\netcoreapp3.1\Aula05_LinkedList.dll
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\obj\Debug\netcoreapp3.1\Aula05_LinkedList.pdb
+Z:\Cursos\Alura\C# Collections pt. 1\05 - Lista Ligada, Pilha e Fila\Aula05_LinkedList\Aula05_LinkedList\obj\Debug\netcoreapp3.1\Aula05_LinkedList.genruntimeconfig.cache
