@@ -1,0 +1,14 @@
+Curso Algoritmos II: MergeSort, QuickSort, Busca Binária e Análise de Algoritmo
+> https://cursos.alura.com.br/course/projetos-de-algoritmos-2
+
+Curso C# III: Lidando com exceções, manipulando arquivos e listas
+> https://cursos.alura.com.br/course/csharp-topicos-avancados
+
+Curso Entity LinQ parte 1: Crie queries poderosas em C#
+> https://cursos.alura.com.br/course/linq-c-sharp
+
+C#: consumindo API, gravando arquivos e utilizando o LINQ
+> https://www.alura.com.br/curso-online-c-sharp-consumindo-api-gravando-arquivos-linq
+
+C# Collections parte 2: Coleções ordenadas, arrays multidimensionais e LINQ
+> https://www.alura.com.br/curso-online-csharp-collections-parte-2

@@ -1,0 +1,7 @@
+O que aprendemos?
+
+Usando Filas para implementar coleções com regra primeiro-que-entra-primeiro-que-sai
+Escolhendo pilhas para implementar coleções com regra último-que-entra-primeiro-que-sai
+Listas: a coleção poderosa e flexível
+Dicionários: obtendo e salvando facilmente os valores pela chave
+Operações com conjuntos matemáticos com HashSet

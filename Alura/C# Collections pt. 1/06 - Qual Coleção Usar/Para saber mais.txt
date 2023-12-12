@@ -1,0 +1,8 @@
+Average (MSDN)
+https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.average?view=net-8.0&redirectedfrom=MSDN#System_Linq_Enumerable_Average_System_Collections_Generic_IEnumerable_System_Double__
+
+Enumerable.Range (MSDN)
+https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.range?view=net-8.0&redirectedfrom=MSDN#System_Linq_Enumerable_Range_System_Int32_System_Int32_
+
+SELECT MANY (MSDN)
+https://learn.microsoft.com/pt-br/dotnet/api/system.linq.enumerable.selectmany?view=net-8.0&redirectedfrom=MSDN#System_Linq_Enumerable_SelectMany__2_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Collections_Generic_IEnumerable___1___
