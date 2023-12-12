@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\bin\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.exe
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\bin\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.deps.json
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\bin\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\bin\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\bin\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.dll
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\bin\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\obj\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\obj\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\obj\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\obj\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\obj\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\obj\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.dll
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\obj\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_ArraysMultidimensionais\Aula02_ArraysMultidimensionais\obj\Debug\netcoreapp3.1\Aula02_ArraysMultidimensionais.genruntimeconfig.cache

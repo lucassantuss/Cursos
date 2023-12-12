@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\bin\Debug\netcoreapp3.1\Aula01_SortedDictionary.exe
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\bin\Debug\netcoreapp3.1\Aula01_SortedDictionary.deps.json
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\bin\Debug\netcoreapp3.1\Aula01_SortedDictionary.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\bin\Debug\netcoreapp3.1\Aula01_SortedDictionary.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\bin\Debug\netcoreapp3.1\Aula01_SortedDictionary.dll
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\bin\Debug\netcoreapp3.1\Aula01_SortedDictionary.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\obj\Debug\netcoreapp3.1\Aula01_SortedDictionary.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\obj\Debug\netcoreapp3.1\Aula01_SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\obj\Debug\netcoreapp3.1\Aula01_SortedDictionary.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\obj\Debug\netcoreapp3.1\Aula01_SortedDictionary.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\obj\Debug\netcoreapp3.1\Aula01_SortedDictionary.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\obj\Debug\netcoreapp3.1\Aula01_SortedDictionary.dll
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\obj\Debug\netcoreapp3.1\Aula01_SortedDictionary.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedDictionary\Aula01_SortedDictionary\obj\Debug\netcoreapp3.1\Aula01_SortedDictionary.genruntimeconfig.cache

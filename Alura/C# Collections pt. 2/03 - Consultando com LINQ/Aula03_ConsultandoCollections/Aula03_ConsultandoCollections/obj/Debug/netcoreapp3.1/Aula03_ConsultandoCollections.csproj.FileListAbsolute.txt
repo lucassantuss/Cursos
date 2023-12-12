@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\bin\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.exe
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\bin\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.deps.json
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\bin\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\bin\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\bin\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.dll
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\bin\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\obj\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\obj\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\obj\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\obj\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\obj\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\obj\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.dll
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\obj\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\03 - Consultando com LINQ\Aula03_ConsultandoCollections\Aula03_ConsultandoCollections\obj\Debug\netcoreapp3.1\Aula03_ConsultandoCollections.genruntimeconfig.cache

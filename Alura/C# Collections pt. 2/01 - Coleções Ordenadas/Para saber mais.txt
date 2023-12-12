@@ -1,0 +1,5 @@
+Classe SortedDictionary (MSDN - em inglês)
+https://learn.microsoft.com/pt-br/dotnet/api/system.collections.generic.sorteddictionary-2?view=net-8.0&redirectedfrom=MSDN
+
+Complexidade de Tempo: Notação Grande-O (Wikipedia - em português)
+https://pt.wikipedia.org/wiki/Grande-O

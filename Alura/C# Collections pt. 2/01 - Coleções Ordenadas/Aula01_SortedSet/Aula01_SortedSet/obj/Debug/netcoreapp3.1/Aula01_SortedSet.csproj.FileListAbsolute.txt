@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\bin\Debug\netcoreapp3.1\Aula01_SortedSet.exe
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\bin\Debug\netcoreapp3.1\Aula01_SortedSet.deps.json
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\bin\Debug\netcoreapp3.1\Aula01_SortedSet.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\bin\Debug\netcoreapp3.1\Aula01_SortedSet.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\bin\Debug\netcoreapp3.1\Aula01_SortedSet.dll
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\bin\Debug\netcoreapp3.1\Aula01_SortedSet.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\obj\Debug\netcoreapp3.1\Aula01_SortedSet.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\obj\Debug\netcoreapp3.1\Aula01_SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\obj\Debug\netcoreapp3.1\Aula01_SortedSet.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\obj\Debug\netcoreapp3.1\Aula01_SortedSet.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\obj\Debug\netcoreapp3.1\Aula01_SortedSet.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\obj\Debug\netcoreapp3.1\Aula01_SortedSet.dll
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\obj\Debug\netcoreapp3.1\Aula01_SortedSet.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedSet\Aula01_SortedSet\obj\Debug\netcoreapp3.1\Aula01_SortedSet.genruntimeconfig.cache

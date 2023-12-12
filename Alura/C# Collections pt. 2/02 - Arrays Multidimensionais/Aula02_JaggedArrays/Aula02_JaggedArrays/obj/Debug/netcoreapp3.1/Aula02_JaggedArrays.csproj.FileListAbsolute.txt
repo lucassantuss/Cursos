@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\bin\Debug\netcoreapp3.1\Aula02_JaggedArrays.exe
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\bin\Debug\netcoreapp3.1\Aula02_JaggedArrays.deps.json
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\bin\Debug\netcoreapp3.1\Aula02_JaggedArrays.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\bin\Debug\netcoreapp3.1\Aula02_JaggedArrays.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\bin\Debug\netcoreapp3.1\Aula02_JaggedArrays.dll
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\bin\Debug\netcoreapp3.1\Aula02_JaggedArrays.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\obj\Debug\netcoreapp3.1\Aula02_JaggedArrays.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\obj\Debug\netcoreapp3.1\Aula02_JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\obj\Debug\netcoreapp3.1\Aula02_JaggedArrays.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\obj\Debug\netcoreapp3.1\Aula02_JaggedArrays.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\obj\Debug\netcoreapp3.1\Aula02_JaggedArrays.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\obj\Debug\netcoreapp3.1\Aula02_JaggedArrays.dll
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\obj\Debug\netcoreapp3.1\Aula02_JaggedArrays.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\02 - Arrays Multidimensionais\Aula02_JaggedArrays\Aula02_JaggedArrays\obj\Debug\netcoreapp3.1\Aula02_JaggedArrays.genruntimeconfig.cache

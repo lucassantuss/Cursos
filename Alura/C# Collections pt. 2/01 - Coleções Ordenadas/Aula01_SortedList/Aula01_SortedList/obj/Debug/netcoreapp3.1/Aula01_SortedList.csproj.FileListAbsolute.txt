@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\bin\Debug\netcoreapp3.1\Aula01_SortedList.exe
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\bin\Debug\netcoreapp3.1\Aula01_SortedList.deps.json
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\bin\Debug\netcoreapp3.1\Aula01_SortedList.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\bin\Debug\netcoreapp3.1\Aula01_SortedList.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\bin\Debug\netcoreapp3.1\Aula01_SortedList.dll
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\bin\Debug\netcoreapp3.1\Aula01_SortedList.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\obj\Debug\netcoreapp3.1\Aula01_SortedList.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\obj\Debug\netcoreapp3.1\Aula01_SortedList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\obj\Debug\netcoreapp3.1\Aula01_SortedList.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\obj\Debug\netcoreapp3.1\Aula01_SortedList.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\obj\Debug\netcoreapp3.1\Aula01_SortedList.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\obj\Debug\netcoreapp3.1\Aula01_SortedList.dll
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\obj\Debug\netcoreapp3.1\Aula01_SortedList.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\01 - Coleções Ordenadas\Aula01_SortedList\Aula01_SortedList\obj\Debug\netcoreapp3.1\Aula01_SortedList.genruntimeconfig.cache

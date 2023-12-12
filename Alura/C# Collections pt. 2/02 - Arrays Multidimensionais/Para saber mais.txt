@@ -1,0 +1,2 @@
+WebAssembly with Blazor (Code Project.com, em inglês)
+> https://www.codeproject.com/Articles/1241210/Developing-Single-Page-Applications-with-Csharp-Co
