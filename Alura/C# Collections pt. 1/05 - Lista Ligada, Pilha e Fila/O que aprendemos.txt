@@ -1,0 +1,18 @@
+O que aprendemos?
+
+Listas Ligadas
+	Adicionando o primeiro elemento com AddFirst
+	Adicionando o último elemento com AddLast
+	Adicionando elemento após um nó com AddBefore
+	Adicionando elemento antes de um nó com AddAfter
+	
+Pilhas
+	Simulando o funcionamento dos botões de um navegador web
+	Empilhando elementos com Push
+	Desempilhando elementos com Pop
+	
+Filas
+	Emulando uma fila de pedágio
+	Enfileirando com Enqueue
+	Desenfileirando com Dequeue
+	Verificando o próximo elemento com Peek

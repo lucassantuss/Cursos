@@ -1,0 +1,14 @@
+D:\Projetos\Aula05_Queue\Aula05_Queue\bin\Debug\netcoreapp3.1\Aula05_Queue.exe
+D:\Projetos\Aula05_Queue\Aula05_Queue\bin\Debug\netcoreapp3.1\Aula05_Queue.deps.json
+D:\Projetos\Aula05_Queue\Aula05_Queue\bin\Debug\netcoreapp3.1\Aula05_Queue.runtimeconfig.json
+D:\Projetos\Aula05_Queue\Aula05_Queue\bin\Debug\netcoreapp3.1\Aula05_Queue.runtimeconfig.dev.json
+D:\Projetos\Aula05_Queue\Aula05_Queue\bin\Debug\netcoreapp3.1\Aula05_Queue.dll
+D:\Projetos\Aula05_Queue\Aula05_Queue\bin\Debug\netcoreapp3.1\Aula05_Queue.pdb
+D:\Projetos\Aula05_Queue\Aula05_Queue\obj\Debug\netcoreapp3.1\Aula05_Queue.csproj.AssemblyReference.cache
+D:\Projetos\Aula05_Queue\Aula05_Queue\obj\Debug\netcoreapp3.1\Aula05_Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Aula05_Queue\Aula05_Queue\obj\Debug\netcoreapp3.1\Aula05_Queue.AssemblyInfoInputs.cache
+D:\Projetos\Aula05_Queue\Aula05_Queue\obj\Debug\netcoreapp3.1\Aula05_Queue.AssemblyInfo.cs
+D:\Projetos\Aula05_Queue\Aula05_Queue\obj\Debug\netcoreapp3.1\Aula05_Queue.csproj.CoreCompileInputs.cache
+D:\Projetos\Aula05_Queue\Aula05_Queue\obj\Debug\netcoreapp3.1\Aula05_Queue.dll
+D:\Projetos\Aula05_Queue\Aula05_Queue\obj\Debug\netcoreapp3.1\Aula05_Queue.pdb
+D:\Projetos\Aula05_Queue\Aula05_Queue\obj\Debug\netcoreapp3.1\Aula05_Queue.genruntimeconfig.cache
