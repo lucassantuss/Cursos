@@ -1,0 +1,2 @@
+Curso Entity LinQ parte 1: Crie queries poderosas em C# (Alura)
+> https://www.alura.com.br/curso-online-c-sharp-consumindo-api-gravando-arquivos-linq

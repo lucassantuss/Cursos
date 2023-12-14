@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\bin\Debug\netcoreapp3.1\Aula05_Foreach.exe
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\bin\Debug\netcoreapp3.1\Aula05_Foreach.deps.json
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\bin\Debug\netcoreapp3.1\Aula05_Foreach.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\bin\Debug\netcoreapp3.1\Aula05_Foreach.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\bin\Debug\netcoreapp3.1\Aula05_Foreach.dll
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\bin\Debug\netcoreapp3.1\Aula05_Foreach.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\obj\Debug\netcoreapp3.1\Aula05_Foreach.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\obj\Debug\netcoreapp3.1\Aula05_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\obj\Debug\netcoreapp3.1\Aula05_Foreach.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\obj\Debug\netcoreapp3.1\Aula05_Foreach.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\obj\Debug\netcoreapp3.1\Aula05_Foreach.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\obj\Debug\netcoreapp3.1\Aula05_Foreach.dll
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\obj\Debug\netcoreapp3.1\Aula05_Foreach.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Foreach\Aula05_Foreach\obj\Debug\netcoreapp3.1\Aula05_Foreach.genruntimeconfig.cache

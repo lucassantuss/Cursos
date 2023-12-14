@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\bin\Debug\netcoreapp3.1\Aula05_Covariancia.exe
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\bin\Debug\netcoreapp3.1\Aula05_Covariancia.deps.json
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\bin\Debug\netcoreapp3.1\Aula05_Covariancia.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\bin\Debug\netcoreapp3.1\Aula05_Covariancia.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\bin\Debug\netcoreapp3.1\Aula05_Covariancia.dll
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\bin\Debug\netcoreapp3.1\Aula05_Covariancia.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\obj\Debug\netcoreapp3.1\Aula05_Covariancia.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\obj\Debug\netcoreapp3.1\Aula05_Covariancia.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\obj\Debug\netcoreapp3.1\Aula05_Covariancia.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\obj\Debug\netcoreapp3.1\Aula05_Covariancia.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\obj\Debug\netcoreapp3.1\Aula05_Covariancia.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\obj\Debug\netcoreapp3.1\Aula05_Covariancia.dll
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\obj\Debug\netcoreapp3.1\Aula05_Covariancia.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\05 - Convertendo e Enumerando Coleções\Aula05_Covariancia\Aula05_Covariancia\obj\Debug\netcoreapp3.1\Aula05_Covariancia.genruntimeconfig.cache

@@ -1,0 +1,2 @@
+Covariância e contravariância (C#) - docs.microsoft.com
+> https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/concepts/covariance-contravariance/

@@ -1,0 +1,13 @@
+O que aprendemos?
+
+Conversão implícita de coleções
+
+O problema da conversão de IList<string> para IList<object>
+Covariância de Array
+Convertendo IList<string> para IEnumerable<object>
+
+O laço foreach
+
+GetEnumerator
+Current, MoveNext
+Como o laço foreach garante a coleção contra mudanças na coleção

@@ -1,0 +1,14 @@
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\bin\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.exe
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\bin\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.deps.json
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\bin\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.runtimeconfig.json
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\bin\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.runtimeconfig.dev.json
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\bin\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.dll
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\bin\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\obj\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.csproj.AssemblyReference.cache
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\obj\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\obj\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.AssemblyInfoInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\obj\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.AssemblyInfo.cs
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\obj\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.csproj.CoreCompileInputs.cache
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\obj\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.dll
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\obj\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.pdb
+Z:\Cursos\Alura\C# Collections pt. 2\04 - Mais Operadores LINQ\Aula04_OperadoresDeConjuntosLINQ\Aula04_OperadoresDeConjuntosLINQ\obj\Debug\netcoreapp3.1\Aula04_OperadoresDeConjuntosLINQ.genruntimeconfig.cache
