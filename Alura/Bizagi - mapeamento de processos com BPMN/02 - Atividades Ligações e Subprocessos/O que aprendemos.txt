@@ -1,0 +1,8 @@
+O que aprendemos nesta aula?
+
+- Os estudos de 3 dos principais elementos de BPMN 
+(Atividades, Ligações e Sub-Processos) com mais ênfase
+
+- Percebemos que a partir do entendimento dos requisitos de negócio fica 
+muito simples representar um processo de maneira padronizada usando 
+os elementos BPMN dentro de suas finalidades.

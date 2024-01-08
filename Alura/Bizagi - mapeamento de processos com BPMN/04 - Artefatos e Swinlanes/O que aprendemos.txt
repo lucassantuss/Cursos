@@ -1,0 +1,6 @@
+O que aprendemos nesta aula?
+
+Um nivelamento de entendimento da teoria e prática os elementos de BPMN, 
+com isso você já tem 2 (conceitual e prático) dos 3 principais insumos 
+para entender e representar em linguagem gráfica clara e concisa 
+qualquer processo de negócio.

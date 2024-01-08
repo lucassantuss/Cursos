@@ -1,0 +1,15 @@
+Seguem algumas referências bibliográficas para estudos complementares:
+
+● Modelagem de processos com BPMN, André L. N. Campos.
+
+● BPMN Quick Guide – Site http://www.bpmn.org/
+
+● BPMN 2.0 – Introduction to the standard for business process modeling - Thomas Allweyer , 2ª edição
+
+● SILVER, B. BPMN Method and Style. Cody - Cassidy Press:2009
+
+● Acesso ao Site Bizagi - https://www.bizagi.com/pt/produtos/bpm-suite/modeler
+
+● Association of Business Process Management Professionals.Guia para o gerenciamento de processos 
+de negócio: Corpo Comum de Conhecimento. Business Process Management. Common Body of Knowledge(CBOK). 
+Chicago, EUA: 2013.

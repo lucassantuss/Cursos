@@ -1,0 +1,5 @@
+O que aprendemos nesta aula?
+
+Eventos e Desvios são 2 elementos de BPMN que quando corretamente aplicados 
+no mapeamento de processos adicionam muita qualidade a representação gráfica 
+tendo muita relevância no nivelamento do entendimento de um processo.

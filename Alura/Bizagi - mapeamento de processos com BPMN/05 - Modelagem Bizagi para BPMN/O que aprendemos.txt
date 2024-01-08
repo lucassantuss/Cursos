@@ -1,0 +1,10 @@
+O que aprendemos nesta aula?
+
+- O analista de negócios deve revisar o modelo "TO BE" depois de gerado 
+e criticá-lo em linha com os requisitos inicialmente passados pelo cliente, 
+potencializando as chances de aceitação final do processo gerado.
+
+- O analista de negócios, deve buscar considerando sua base teórica (BPMN) e 
+prática (Bizagi) aumentar sua capacidade argumentativa na validação do 
+processo desenhado ao apresentá-lo para, por exemplo como exercitamos em 
+nosso curso para a “dona do negócio” na Livraria.

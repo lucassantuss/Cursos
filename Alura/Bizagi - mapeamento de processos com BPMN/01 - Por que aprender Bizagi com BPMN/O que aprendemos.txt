@@ -1,0 +1,16 @@
+O que aprendemos nesta aula?
+
+Nesta nossa aula inicial aprendemos que:
+
+A notação de modelagem de processos de negócio (BPMN) serve para representar de maneira gráfica 
+e padronizada uma sequência de ações para se atingir um determinado objetivo (processo).
+
+BPMN é composto de 7 elementos principais (atividades, ligações, sub-processos, eventos, 
+desvios, artefatos e swimlanes) para representar os detalhes do processo.
+
+A modelagem “AS IS”, nos revela uma fotografia de um processo de negócio num determinado 
+momento e deve ser usada como base para a identificação e análise de novos requisitos 
+comparados aos atuais. Devendo esta modelagem “AS IS” ser aplicada pelo profissional que 
+atuar no ramo de análise de negócios e requisitos para propor melhorias no processo atual, 
+em linha com as necessidades de negócio informadas pelo “dono do negócio” que o especialista 
+em BPMN estiver interagindo para alinhamento dos requisitos.
