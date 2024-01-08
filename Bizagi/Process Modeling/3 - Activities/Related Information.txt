@@ -1,0 +1,2 @@
+Product documentation: Activities
+> https://help.bizagi.com/process-modeler/en/index.html?activities.htm

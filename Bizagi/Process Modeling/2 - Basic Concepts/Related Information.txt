@@ -1,0 +1,2 @@
+Product documentation: Basic BPMN modeling elementsURL
+> https://help.bizagi.com/bpm-suite/en/index.html?bpmn_shapes.htm

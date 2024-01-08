@@ -1,0 +1,2 @@
+Product documentation: Gateways
+> https://help.bizagi.com/process-modeler/en/index.html?gateways.htm

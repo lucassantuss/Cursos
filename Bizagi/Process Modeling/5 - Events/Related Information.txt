@@ -1,0 +1,2 @@
+Product documentation: Events
+> https://help.bizagi.com/process-modeler/en/index.html?events.htm

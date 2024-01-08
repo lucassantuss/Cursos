@@ -1,0 +1,5 @@
+BPMN Information HomeURL
+> https://www.bpmn.org/
+
+OMG released versions of BPMNURL
+> https://www.omg.org/spec/BPMN/
