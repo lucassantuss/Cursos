@@ -1,0 +1,11 @@
+Entity Framework Core
+> https://github.com/dotnet/efcore
+
+Dapper
+> https://github.com/DapperLib/Dapper
+
+Humanizer
+> https://github.com/Humanizr/Humanizer
+
+AutoMapper
+> https://github.com/AutoMapper/AutoMapper/

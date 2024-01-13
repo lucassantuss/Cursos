@@ -1,0 +1,12 @@
+O que aprendemos?
+
+Nessa aula:
+- Entendemos como o sistema da AdoPet funciona;
+
+- Percebemos o quanto utilizar parâmetro nomeado pode 
+reduzir tempo de desenvolvimento e linhas de código e 
+evitar assim o uso excessivo de comentários;
+
+- Como as extrações de classes podem nos ajudar no processo 
+de organização da nossa aplicação e assim evitar um grande 
+número de linhas de código do program.cs

@@ -1,0 +1,11 @@
+Curso .NET 6: criando uma web API
+> https://cursos.alura.com.br/course/dotnet-criando-web-api
+
+Formação ASP.Net Core
+> https://cursos.alura.com.br/formacao-dotnet
+
+Alura + O que é REST?
+> https://cursos.alura.com.br/extra/alura-mais/o-que-e-rest--c119
+
+Artigo Minimal API .NET: o que é isso?
+> https://www.alura.com.br/artigos/minimal-api-net-o-que-e-isso

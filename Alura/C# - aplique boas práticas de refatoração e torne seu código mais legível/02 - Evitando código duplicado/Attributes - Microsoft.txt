@@ -1,0 +1,2 @@
+Attributes - Microsoft
+> https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/attributes

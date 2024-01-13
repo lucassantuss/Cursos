@@ -1,0 +1,16 @@
+O que aprendemos?
+
+Nessa aula:
+
+- Aplicamos a boa prática da utilização de testes para entregar um 
+código mais consistente e para isso revisitamos o passo a passo para 
+criação de um projeto de testes;
+
+- Entendemos a utilização de um padrão de escrita de testes a fim de 
+facilitar a compreensão do que vamos testar;
+
+- Analisamos o cenário de testes com atenção as dependências necessárias 
+para a execução dos testes;
+
+- Refatoramos nosso projeto guiado por testes e com isso aplicamos uma 
+metodologia de mercado, o TDD.

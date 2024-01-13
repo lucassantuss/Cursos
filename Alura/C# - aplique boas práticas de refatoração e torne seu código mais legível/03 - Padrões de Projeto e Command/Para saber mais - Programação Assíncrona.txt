@@ -1,0 +1,5 @@
+Artigo - Programação assíncrona;
+> https://learn.microsoft.com/pt-br/dotnet/csharp/asynchronous-programming/async-scenarios
+
+Artigo - Modelo de programação assíncrona de tarefa.
+> https://learn.microsoft.com/pt-br/dotnet/csharp/asynchronous-programming/task-asynchronous-programming-model

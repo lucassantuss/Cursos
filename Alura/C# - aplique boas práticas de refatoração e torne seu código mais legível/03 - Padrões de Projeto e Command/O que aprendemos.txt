@@ -1,0 +1,17 @@
+O que aprendemos?
+
+Nessa aula:
+
+- Aplicamos a organização dos arquivos em diretórios para facilitar a 
+manutenção futura, além de conhecermos um dos tipos de refatoração automáticas 
+que a ferramenta Visual Studio Community nos proporciona;
+
+- Aprendemos um pouco sobre padrões de projeto, uma vez que já aplicamos o design
+pattern Command no projeto;
+
+- Aprendemos a utilizar o recurso da orientação a objeto camada Interface para 
+identificar comportamentos comuns às classes de comando;
+
+- Refatoramos o projeto para a função 'executar' das classes de comando pudesse 
+ser assíncrona. Com isso entendemos um pouco mais sobre este modelo de programação 
+através das palavras async, await e Task.

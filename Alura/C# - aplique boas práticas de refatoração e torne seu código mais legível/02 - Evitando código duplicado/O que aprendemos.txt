@@ -1,0 +1,11 @@
+O que aprendemos?
+
+Nessa aula:
+
+- Aprendemos a identificar oportunidades e situações de duplicação de código;
+
+- Ao aplicar a técnica de extração de classes conseguimos diminuir a quantidade 
+de código duplicado;
+
+- Aplicamos o princípio do DRY, Don't Repeat Yourself, que trata da duplicação 
+de código.

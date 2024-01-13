@@ -1,0 +1,2 @@
+Diretrizes para Collections - Microsoft
+> https://learn.microsoft.com/pt-br/dotnet/standard/design-guidelines/guidelines-for-collections
