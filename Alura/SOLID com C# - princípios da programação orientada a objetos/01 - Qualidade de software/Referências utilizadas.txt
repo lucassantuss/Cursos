@@ -1,0 +1,24 @@
+Dívida Técnica
+
+Wikipedia - Divida Técnica
+> https://en.wikipedia.org/wiki/Technical_debt
+
+Ward Cunningham explicando como criou a metáfora da dívida técnica
+> https://www.youtube.com/watch?v=pqeJFYwnkjE
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Code Smells
+
+Artigo - Code Smell (Martin Fowler)
+> https://www.martinfowler.com/bliki/CodeSmell.html
+
+Catálogos de Code Smell
+> https://refactoring.guru/refactoring/smells
+> https://blog.codinghorror.com/code-smells/
+> https://blog.jetbrains.com/dotnet/2018/06/18/sharpen-sense-code-smell/
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Manifesto Ágil
+
+O Manifesto Ágil
+> https://agilemanifesto.org/iso/ptbr/manifesto.html

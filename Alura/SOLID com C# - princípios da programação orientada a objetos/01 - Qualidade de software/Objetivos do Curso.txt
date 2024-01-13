@@ -1,0 +1,21 @@
+Objetivos do curso
+
+Veja os principais objetivos desse curso:
+
+- entender porque você precisa ficar atento à qualidade de seu código
+
+- conhecer os princípios S.O.L.I.D. para ajudar a aumentar sua qualidade 
+(e descobrir porque coloquei ponto entre cada letra)
+
+- estudar como a separação de responsabilidades aumenta a coesão de seus 
+métodos e classes
+
+- refletir sobre a dependência entre suas classes para diminuir o acoplamento 
+ruim no código
+
+- introduzir o hábito de manter a estabilidade de suas classes para garantir 
+a flexibilidade de sua aplicação
+
+- reforçar que promessas feitas nas abstrações devem ser cumpridas
+
+- lembrar que interfaces também podem perder coesão e ter alto acoplamento

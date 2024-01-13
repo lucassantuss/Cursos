@@ -1,0 +1,18 @@
+O que aprendemos?
+
+O que aprendemos nessa aula:
+
+- nosso projeto de software pode estagnar e até morrer caso não 
+nos preocupemos com a qualidade de seu código
+
+- código de má qualidade possui alta dívida técnica que com o 
+tempo se torna mais custosa de quitar
+
+- identificamos problemas em nosso projeto através dos code smells
+
+- um dos principais code smells é o código repetido
+
+- para quitar a dívida técnica usaremos a experiência de outros 
+desenvolvedores através de princípios e padrões
+
+- alguns princípios foram agrupados na sigla S.O.L.I.D.

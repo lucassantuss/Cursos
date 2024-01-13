@@ -1,0 +1,13 @@
+Objetivos da aula:
+
+Ao final dessa aula você será capaz de responder às seguintes perguntas:
+
+- Por que evitar código duplicado?
+
+- O que devo fazer quando encontro código repetido em meu projeto?
+
+- Qual a diferença entre responsabilidade de método e responsabilidade de classes?
+
+- Qual o propósito do padrão DAO?
+
+- Qual o princípio S.O.L.I.D. relacionado à coesão?

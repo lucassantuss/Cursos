@@ -1,0 +1,5 @@
+Princípio DRY (Don't Repeat Yourself) por Andrew Hunt e Dave Thomas
+> https://wiki.c2.com/?DontRepeatYourself
+
+SRP (Single Reponsibility Principle) de Robert Martin
+> https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html

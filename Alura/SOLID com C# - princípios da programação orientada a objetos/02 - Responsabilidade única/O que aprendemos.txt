@@ -1,0 +1,19 @@
+O que aprendemos?
+
+- código repetido é uma forma específica de conhecimento repetido (DRY)
+
+- repetição de código é ruim porque impacta nos custos de manutenção e 
+aumenta sua dívida técnica
+
+- repetição de código pode indicar que métodos e classes possuem muitas 
+responsabilidades
+
+- métodos e classes devem ter 1 única responsabilidade! Só assim serão coesos
+
+- a responsabilidade de um método é executar uma única função
+
+- a responsabilidade de uma classe é responder a mudanças originadas por 
+uma única pessoa, função ou área de negócio (agente de mudança)
+
+- essas idéias foram sintetizadas no Princípio da Responsabilidade Única 
+(SRP) cunhado por Robert Martin

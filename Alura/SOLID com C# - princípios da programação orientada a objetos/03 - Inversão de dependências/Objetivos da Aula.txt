@@ -1,0 +1,14 @@
+Objetivos da aula
+
+Ao final dessa aula você será capaz de responder às seguintes perguntas:
+
+- Como analiso as dependências de uma classe?
+
+- Qual a diferença entre acoplamento bom e ruim?
+
+- O que são classes instáveis?
+
+- Que estratégias utilizo para minimizar os acoplamentos ruins?
+
+- De que maneira o AspNet Core ajuda a minimizar o acoplamento de nossos 
+controladores e tipos em geral?
