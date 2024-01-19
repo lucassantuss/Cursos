@@ -1,0 +1,18 @@
+O que aprendemos?
+
+- Nesta aula, começamos a definir a Entrega Contínua (Continuous Delivery) e entender 
+a diferença entre Entrega Contínua e Deploy Contínuo (Continuous Deploy).
+
+A entrega contínua:
+
+- Visa diminuir todo o risco do deploy através de deploys frequentes e bem testados
+
+- Normalmente é implementada através de um pipeline de entrega do software
+
+- O pipeline representa o fluxo contínuo das alterações (valor) do código até o ambiente de produção
+
+- Visa automatizar todo o processo do deploy e aplicar cada alteração
+
+- O Deploy Contínuo coloca qualquer alteração em produção
+
+- A Entrega Contínua não coloca qualquer alteração em produção, mas só por motivos de negócio

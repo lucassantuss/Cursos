@@ -1,0 +1,35 @@
+Bibliografia e links externos
+
+- A Entrega Contínua e todos os conceitos e práticas relacionados são bastante discutidos na 
+literatura e web em geral, devido a sua importância.
+
+Seguem algumas fontes que usamos para criar este curso:
+
+Livro Continuous Delivery, do Jez Humble
+> https://www.amazon.com.br/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0
+
+Livro DevOps Handbook, do Gene Kim
+> https://www.amazon.com.br/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3/
+
+Livro DevOps, da Casa do Código, do Danilo Sato
+> https://www.casadocodigo.com.br/products/livro-devops
+
+Artigo da ThoughtWorks: Continuous integration
+> https://www.thoughtworks.com/pt-br
+
+Série de artigos do Martin Fowler sobre Entrega Contínua:
+-> Software Delivery Guide
+> https://martinfowler.com/delivery.html
+
+Série de artigos da Caelum:
+-> Branches e integração contínua: o problema de feature branches
+> https://www.alura.com.br/artigos/branches-e-integracao-continua-o-problema-de-feature-branches
+
+-> Integração Contínua - Builds rápidos com Grids e paralelismo
+> https://www.alura.com.br/artigos/integracao-continua-builds-rapidos-com-grids-e-paralelismo
+
+-> Integração contínua: deploys e aprovações sem dor de cabeça para o cliente
+> https://www.alura.com.br/artigos/integracao-continua-deploys-e-aprovacoes-sem-dores-de-cabeca-para-o-cliente
+
+-> Artigos sobre Entrega Contínua e padrões relacionados, do Jez Humble
+> https://continuousdelivery.com/

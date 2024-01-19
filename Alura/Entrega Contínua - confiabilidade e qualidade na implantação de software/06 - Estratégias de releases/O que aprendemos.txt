@@ -1,0 +1,21 @@
+O que aprendemos?
+
+- Nesta aula, falamos sobre estratégias ou patterns de implantação. Foi importante 
+mencionar que o deploy e o release são duas operações distintas. Ou seja, podemos 
+fazer deploy da aplicação, mas mesmo assim ainda não publicar as novas features.
+
+- Ter features invísiveis para o cliente também é chamado de dark launching, quando 
+já implantamos o novo software, mas o cliente ainda não tem acesso 
+(ou só alguns clientes).
+
+Resumindo:
+
+-> Vimos a diferença entre deploy (implantação) e release (publicação)
+-> Deploy é colocar as alterações em produção (provisionar, configurar, instalar)
+-> Release é deixar as alterações visíveis
+
+Os padrões para o release do software são:
+
+-> Blue-Green Deployment
+-> Canary Release
+-> Feature Toggles
