@@ -1,0 +1,19 @@
+** Integração Continua (CI)
+
+Livro: Continuous Integration, de Paul M. Duvall
+
+Artigo do Martin Fowler: Continuous Delivery
+> https://martinfowler.com/bliki/ContinuousDelivery.html
+
+Artigo no CodeBetter: Check in Dance
+> http://codebetter.com/jeremymiller/2005/07/25/using-continuous-integration-better-do-the-check-in-dance/
+
+Série de artigos da Caelum:
+Branches e integração contínua: o problema de feature branches
+> https://www.alura.com.br/artigos/branches-e-integracao-continua-o-problema-de-feature-branches
+
+Integração Contínua - Builds rápidos com Grids e paralelismo
+> https://www.alura.com.br/artigos/integracao-continua-builds-rapidos-com-grids-e-paralelismo
+
+Integração contínua: deploys e aprovações sem dor de cabeça para o cliente
+> https://www.alura.com.br/artigos/integracao-continua-deploys-e-aprovacoes-sem-dores-de-cabeca-para-o-cliente

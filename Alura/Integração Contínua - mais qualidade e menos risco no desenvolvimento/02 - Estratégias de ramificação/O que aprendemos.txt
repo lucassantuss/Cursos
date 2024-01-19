@@ -1,0 +1,20 @@
+O que aprendemos?
+
+- O Git possui branches leves, que causou a criação de workflows baseado em branches
+
+- Existem vários flows ou modelos de ramificação (branching model)
+
+Alguns dos modelos conhecidos são:
+-> Trunk-Based
+-> Feature Branch Flow
+-> GitHub Flow
+-> GitLab Flow
+-> Git Flow
+
+- Cada um define a semântica e uso da branch
+
+- lembre-se, cada branch deve ser de vida curta para diminuir o risco do merge hell
+
+- O comando rebase garante um histórico linear dos commits
+
+- Rebase não deve ser usado em branches compartilhadas/públicas

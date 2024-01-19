@@ -1,0 +1,11 @@
+Para saber mais: Fontes externas
+
+> https://trunkbaseddevelopment.com/
+
+> https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
+
+> https://guides.github.com/introduction/flow/
+
+> https://docs.gitlab.com/ee/topics/gitlab_flow.html
+
+> https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html

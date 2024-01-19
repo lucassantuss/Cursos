@@ -1,0 +1,10 @@
+Para saber mais: Rebase
+
+Git e Github para Sobrevivência (Episódios 02 e 03)
+> https://www.alura.com.br/webseries/git-e-github-para-sobrevivencia
+
+Git e Github: Controle e compartilhe seu código
+> https://cursos.alura.com.br/course/git-github-controle-de-versao
+
+Git e Github: Estratégias de ramificação, Conflitos e Pull Requests
+> https://cursos.alura.com.br/course/git-github-branching-conflitos-pull-requests

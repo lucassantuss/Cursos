@@ -1,0 +1,17 @@
+O que aprendemos?
+
+- Integração Contínua (CI) significa integrar as alterações no mainline 
+(master ou trunk) diariamente.
+
+- Para usar Integração Contínua, é necessário usar um sistema de controle de versão 
+(VCS), e no final integramos o código no repositório (usar Git não é obrigatório)
+
+- Aplicando Integração Contínua corretamente, diminuímos os problemas de integração 
+(como merge hell), melhoramos a comunicação entre desenvolvedores e antecipamos 
+a descoberta de bugs
+
+- Os estilos de organização de projeto
+
+- Mono-repo possui todos os projetos em um único repositório
+
+- Multi-repo separa um repositório para cada projeto
