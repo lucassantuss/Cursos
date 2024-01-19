@@ -1,0 +1,5 @@
+A própria Microsoft em seu ebook de práticas arquiteturais
+> https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/enumeration-classes-over-enum-types
+
+Proposta de solução do Jimmy Bogard
+> https://lostechies.com/jimmybogard/2008/08/12/enumeration-classes/

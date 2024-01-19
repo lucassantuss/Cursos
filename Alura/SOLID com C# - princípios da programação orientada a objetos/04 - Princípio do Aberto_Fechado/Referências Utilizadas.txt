@@ -1,0 +1,17 @@
+** Camada de Serviços
+
+Livro Patterns of Enterprise Architecture (Martin Fowler)
+> https://martinfowler.com/eaaCatalog/serviceLayer.html
+
+Validating with a Service Layer (C#) - Microsoft
+> https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/models-data/validating-with-a-service-layer-cs
+
+** OCP
+
+Artigo - O princípio do aberto/fechado (Robert Martin)
+> https://blog.cleancoder.com/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html
+
+** Decorator
+
+Decorator Pattern (Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides)
+> https://en.wikipedia.org/wiki/Decorator_pattern

@@ -1,0 +1,13 @@
+O que aprendemos?
+
+- código repetido é um risco para o negócio
+
+- crie uma camada de serviços para separar as funcionalidades de sua 
+aplicação (Service Layer)
+
+- minimize a alteração de código que está pronto (fechado) mas garanta 
+que seu projeto continue extensível (aberto); esse é o segundo princípio 
+S.O.L.I.D. e é chamado de Open/Closed Principle
+
+- o padrão Decorator é utilizado para aplicar o OCP na prática: uma nova 
+classe é criada que apenas decora uma existente

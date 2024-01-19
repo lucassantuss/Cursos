@@ -1,0 +1,22 @@
+** Liskov Substitution Principle
+
+Barbara Liskov - Wikipédia
+> https://en.wikipedia.org/wiki/Barbara_Liskov
+
+Artigo - Liskov Substitution Principle
+> https://drive.google.com/file/d/0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh/view
+
+** Interface Segregation Principle
+
+Artigo - Interface Segregation Principle
+> https://drive.google.com/file/d/0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi/view
+
+** You Aint Gonna Need It
+
+Livro - XP Extreme Programming (Casa do Código)
+> https://www.casadocodigo.com.br/products/livro-xp-extreme-programming
+
+** CQRS (Command and Query Responsibility Segregation)
+
+Artigo - Padrão Arquitetural CQRS (Eduardo Pires)
+> https://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/
