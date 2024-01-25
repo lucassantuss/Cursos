@@ -1,0 +1,11 @@
+*Permitir as caracteristicas do Hardware Fisico na VM
+Set-VMProcessor -VMName "Server1 - Teste" -ExposeVirtualizationExtensions $true
+
+*Desabilitar a Memória Dinamica da VM
+Set-VMMemory -VMName "Server1 - Teste" -DynamicMemoryEnabled $false
+
+*Colocar 2 processadores virtuais na VM
+Set-VMProcessor -VMName "Server1 - Teste" -Count 2
+
+*Habilitar a falsificação de endereço MAC (Adaptador de Rede > Recursos Avançados)
+Set-VMNetworkAdapter -VMName "Server1 - Teste" -MacAddressSpoofing on
