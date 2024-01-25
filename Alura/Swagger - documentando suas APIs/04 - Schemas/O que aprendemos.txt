@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- Aprendemos a definir tipos para reutilizar schemas
+
+- Vimos como definir um objeto para ser reutilizado
+
+- Aprendemos a referenciar tipos com $ref
+
+- Entendemos mais sobre os tipos e sobre arrays

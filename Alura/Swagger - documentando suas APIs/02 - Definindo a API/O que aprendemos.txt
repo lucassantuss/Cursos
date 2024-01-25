@@ -1,0 +1,7 @@
+O que aprendemos?
+
+- Definimos informações sobre a API no Swagger editor
+
+- Aprendemos a adicionar links sobre a API
+
+- Adicionamos detalhes de contato e licença da API

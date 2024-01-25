@@ -1,0 +1,11 @@
+Para saber mais: Tokens
+
+- Autenticação por token é um conhecimento mais do que necessário quando se 
+trata de desenvolvimento de APIs. Vou deixar aqui 2 vídeos para explicar 
+melhor o funcionamento desse tipo de autenticação:
+
+Autenticação por token: 
+-> https://www.youtube.com/watch?v=MZetkcs2xIo
+
+Autenticação com JWT: 
+-> https://www.youtube.com/watch?v=B-7e-ZpIWAs

@@ -1,0 +1,7 @@
+O que aprendemos?
+
+- Aprendemos o que é o Swagger
+
+- Vimos como o Swagger pode nos ajudar no desenvolvimento de APIs
+
+- Aprendemos como funciona o Swagger Editor

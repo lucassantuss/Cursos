@@ -1,0 +1,7 @@
+O que aprendemos?
+
+- Entendemos sobre schemas de segurança
+
+- Adicionamos autenticação a todos os endpoints
+
+- Vimos como adicionar uma informação adicional com bearerFormat

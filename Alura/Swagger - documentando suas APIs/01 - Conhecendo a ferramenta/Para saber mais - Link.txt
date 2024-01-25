@@ -1,0 +1,9 @@
+Para saber mais: Link
+
+- Como foi mostrado nesse vídeo, OpenAPI é a especificação utilizada pelo Swagger. 
+No próprio site do Swagger há uma versão da especificação para consulta, mas 
+caso você queira a versão "oficial" da especificação, 
+pode consultar: https://www.openapis.org/
+
+- No momento da escrita desta atividade a última versão é a 3.1.0 e pode ser 
+conferida aqui: https://spec.openapis.org/oas/v3.1.0

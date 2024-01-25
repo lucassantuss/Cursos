@@ -1,0 +1,7 @@
+O que aprendemos?
+
+- Vimos que é possível disponibilizar o swagger em nossa infra
+
+- Aprendemos a usar o Swagger Editor a partir do Docker
+
+- Vimos como disponibilizar o Swagger UI através do Docker

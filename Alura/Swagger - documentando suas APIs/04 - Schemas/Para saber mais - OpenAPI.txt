@@ -1,0 +1,7 @@
+Para saber mais: OpenAPI
+
+- Neste capítulo além de utilizar components nós discutimos um pouco 
+sobre os possíveis tipos de dados da especificação OpenAPI.
+
+- Nesse link você pode conferir todos os possíveis tipos de dados e seus respectivos formatos:
+-> https://swagger.io/specification/#data-types

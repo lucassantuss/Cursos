@@ -1,0 +1,10 @@
+Para saber mais: Info Object
+
+- Neste capítulo nós utilizamos as chaves externalDocs e info. 
+Todas as chaves que usamos possuem alguns campos obrigatórios e outros opcionais.
+
+- Nesse link você pode conferir os campos de info: 
+https://swagger.io/specification/#info-object
+
+- Aqui você pode conferir as informações da chave externalDocs: 
+https://swagger.io/specification/#external-documentation-object
