@@ -1,0 +1,28 @@
+PUT atualiza o objeto inteiro por JSON no body
+
+PATCH atualiza o objeto por propriedades no JSON do body, não necessita o objeto todo
+> Pacote Nuget -> Microsoft.AspNetCore.Mvc.NewtonsoftJson
+
+> no program.cs colocar:
+-> builder.Services.AddControllers().AddNewtonsoftJson();
+
+> JsonPatchDocument<UpdateFilmeDto> como parametro
+
+> converter o filme para UpdateFilmeDto e depois converter para filme denovo no fim para atualizar no banco
+> para conseguir verificar as validações do DTO
+-> patch.ApplyTo(filmeParaAtualizar, ModelState);
+
+Body do PATCH para atualizar o titulo e o genero
+
+[
+	{
+		"op": "replace",
+		"path": "/titulo",
+		"value": "Avatar"
+	},
+	{
+		"op": "replace",
+		"path": "/genero",
+		"value": "Ficção"
+	}
+]

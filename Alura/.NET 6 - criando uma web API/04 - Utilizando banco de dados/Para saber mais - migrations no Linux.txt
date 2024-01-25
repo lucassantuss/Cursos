@@ -1,0 +1,23 @@
+Para saber mais: migrations no Linux
+
+- A proposta desta atividade é ilustrar como gerar suas migrations utilizando 
+o Linux como ambiente de desenvolvimento.
+
+1 - Será necessário acessar o diretório de seu arquivo .csproj através do 
+comando cd. Por exemplo:
+
+-> cd caminho/do/projeto/.
+
+2 - Execute o comando para instalar o dotnet ef tools:
+
+-> dotnet tool install --global dotnet-ef
+
+3 - Execute o comando de criação de migration:
+
+-> dotnet ef migrations add FilmeMigration
+
+4 - Aplique as mudanças no banco de dados:
+
+-> dotnet ef database update
+
+Pronto! Agora já podemos gerar as migrations no Linux.

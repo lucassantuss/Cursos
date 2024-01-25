@@ -1,0 +1,7 @@
+No console dos Pacotes Nugets
+
+> Add-Migration CriandoTabelaDeFilme
+
+Depois utilizar o:
+
+> Update-Database

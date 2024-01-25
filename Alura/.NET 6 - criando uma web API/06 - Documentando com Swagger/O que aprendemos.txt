@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- Documentar a API é de grande valia tanto para quem vai desenvolver quanto para quem vai consumi-la.
+
+- Como configurar o Swagger em nossa classe Program.cs.
+
+- Como documentar métodos através de XML.
+
+- O Swagger auxilia o processo de entendimento sobre uma rota, seus parâmetros e retornos.

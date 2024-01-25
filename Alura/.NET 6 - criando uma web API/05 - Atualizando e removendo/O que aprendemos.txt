@@ -1,0 +1,12 @@
+O que aprendemos?
+
+- O verbo PUT pode ser utilizado quando queremos atualizar algum recurso no sistema.
+
+- O verbo PATCH também pode ser utilizado para atualizações, porém de maneira parcial.
+
+- Apesar do verbo PATCH não exigir a passagem completa do objeto a ser atualizado, 
+exige uma configuração mais complexa.
+
+- O verbo DELETE deve ser utilizado quando queremos deletar um recurso no sistema.
+
+- Quando um recurso é atualizado ou removido com sucesso, devemos retornar status 204 (No Content).

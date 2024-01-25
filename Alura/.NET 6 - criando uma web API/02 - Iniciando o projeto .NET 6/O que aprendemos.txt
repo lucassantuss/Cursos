@@ -1,0 +1,15 @@
+O que aprendemos?
+
+- Como enviar requisições para a API através de rotas padronizadas.
+
+- Como criar controladores, preparando a API para receber requisições.
+
+- A finalidade do verbo POST, que é criar recursos em nosso sistema.
+
+- Como criar um recurso em memória no sistema por meio da utilização de listas.
+
+- A anotação [Required] torna obrigatório passar um parâmetro determinado.
+
+- A anotação [StringLength] limita o tamanho de caracteres de uma string.
+
+- A anotação [Range] limita o intervalo inferior e superior para valores numéricos.

@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- APIs trazem vantagens como: facilitar o consumo e disponibilização de dados e padronização.
+
+- REST é um padrão arquitetural que visa padronizar os meios de tráfego de dados.
+
+- APIs abstraem detalhes de implementação.
+
+- Como preparar o ambiente no Windows e Linux.

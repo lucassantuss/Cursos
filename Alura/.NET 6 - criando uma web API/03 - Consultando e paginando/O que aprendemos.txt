@@ -1,0 +1,15 @@
+O que aprendemos?
+
+- Como recuperar informações da API através da criação de actions.
+
+- O verbo GET visa retornar recursos da API.
+
+- Como enviar parâmetros através da URL de requisição.
+
+- Como filtrar recursos para retornar para o usuário utilizando LINQ.
+
+- Status 404 indica que um recurso não foi encontrado.
+
+- Como tornar nossos retornos mais enxutos através de conceitos de paginação.
+
+- Como aplicar paginação através dos métodos Skip() e Take().

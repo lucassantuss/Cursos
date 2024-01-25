@@ -1,0 +1,19 @@
+Para saber mais: pacotes Nuget no Linux
+
+- Como foi dito em vídeo, a proposta desta atividade será ilustrar como instalar 
+pacotes do NUGET utilizando o Linux como ambiente de desenvolvimento.
+
+1 - Será necessário acessar o diretório de seu arquivo .csproj através do 
+comando cd. Por exemplo:
+ 
+-> cd caminho/do/projeto/.
+
+2 - Execute os comandos para instalar os pacotes necessários:
+
+-> dotnet add package Microsoft.EntityFrameworkCore --version 6.0.10
+
+-> dotnet add package Microsoft.EntityFrameworkCore.Tools --version 6.0.10
+
+-> dotnet add package Pomelo.EntityFrameworkCore.MySql --version 6.0.2
+
+Pronto! Conseguimos fazer a instalação dos pacotes.
