@@ -1,0 +1,26 @@
+Para saber mais: configurações padronizadas de segurança
+
+- Como dito anteriormente, o Identity provê algumas configurações padronizadas 
+para segurança de senha. Diversas dessas configurações podem ser customizadas 
+conforme a necessidade da aplicação.
+
+Mais informações podem ser obtidas por meio da documentação oficial.
+> https://learn.microsoft.com/pt-br/aspnet/core/security/authentication/identity-configuration?view=aspnetcore-7.0#password
+
+builder.Services.Configure<IdentityOptions>(options =>
+{
+    // Default Password settings.
+    options.Password.RequireDigit = true;
+    options.Password.RequiredLength = 6;
+    options.Password.RequireLowercase = true;
+    options.Password.RequireNonAlphanumeric = true;
+    options.Password.RequiredUniqueChars = 1;
+    options.Password.RequireUppercase = true;
+});
+
+RequireDigit -> Requer um número entre 0 e 9 na senha. -> Padrão: true
+RequiredLength -> O comprimento mínimo da senha.	 -> Padrão: 6
+RequireLowercase	 -> Requer um caractere minúsculo na senha. -> Padrão: true
+RequireNonAlphanumeric -> Requer um caractere não alfanumérico na senha. -> Padrão: true
+RequiredUniqueChars -> Requer o número de caracteres distintos na senha. -> Padrão: 1
+RequireUppercase -> Requer um caractere maiúsculo na senha. -> Padrão: true

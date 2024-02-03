@@ -1,0 +1,11 @@
+O que aprendemos?
+
+- Tokens JWT são utilizados para trafegar dados de maneira prática entre aplicações;
+
+- Como adicionar autorização com o método AddAuthorization();
+
+- Como adicionar autenticação com o método AddAuthentication();
+
+- Políticas de acesso podem ser usadas para restringir o acesso de usuários;
+
+- Podemos interceptar requisições a autorizá-las com um AuthorizationHandler.

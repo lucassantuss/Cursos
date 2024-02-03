@@ -1,0 +1,11 @@
+O que aprendemos?
+
+- Integrar o Identity com o Entity por meio das classes e métodos oferecidos pela biblioteca;
+
+- Como utilizar a classe UserManager e o método CreateAsync() para cadastrarmos usuários no sistema;
+
+- Que o controlador deve ter o mínimo de responsabilidade possível no âmbito de implementação de lógica;
+
+- É uma boa prática não expor o modelo de nossas entidades diretamente no controlador;
+
+- Criar services é uma boa alternativa a fim de isolar a lógica que implementamos.

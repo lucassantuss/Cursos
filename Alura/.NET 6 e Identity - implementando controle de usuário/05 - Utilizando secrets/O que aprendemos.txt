@@ -1,0 +1,12 @@
+O que aprendemos?
+
+- Expor dados sensíveis em arquivos versionados/compartilhados pode acarretar 
+em vazamento de dados;
+
+- Não devemos deixar para tirar informações sensíveis antes de versionar os 
+nossos arquivos, pois isso é arriscado;
+
+- O .NET, através de secrets, possui uma maneira de carregar dados sem a necessidade 
+de colocá-los em arquivos de configuração;
+
+- Como criar e colocar informações em secrets através do comando dotnet user-secrets.

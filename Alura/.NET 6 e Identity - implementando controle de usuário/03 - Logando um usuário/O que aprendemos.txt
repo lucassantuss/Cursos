@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- Como efetuar login com a classe SignInManager;
+
+- Como logar através de senha com o método PasswordSignInAsync;
+
+- A importância de tokens JWT para o tráfego de dados de um usuário;
+
+- Como adicionar campos de informação em um token JWT através de claims.
