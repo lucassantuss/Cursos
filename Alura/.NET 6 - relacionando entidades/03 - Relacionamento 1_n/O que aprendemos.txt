@@ -1,0 +1,10 @@
+O que aprendemos?
+
+- Que um relacionamento 1:n cria um vínculo entre uma e muitas entidades.
+
+- Assim como no relacionamento 1:1, podemos definir a cardinalidade do relacionamento 
+através das propriedades do modelo.
+
+- Chaves estrangeiras servem de referência para identificar com qual entidade estamos nos relacionando.
+
+- O valor na coluna de uma chave estrangeira deve constar na tabela dominante na relação.

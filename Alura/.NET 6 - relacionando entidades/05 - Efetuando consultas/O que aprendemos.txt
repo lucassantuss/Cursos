@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- Como efetuar consultas com SQL diretamente em nosso código através do método FromSqlRaw().
+
+- Como efetuar consultas através do LINQ.
+
+- Realizar consultas complexas através do relacionamento de entidades.
+
+- Os métodos Where() e Any() facilitam a criterização de uma consulta.

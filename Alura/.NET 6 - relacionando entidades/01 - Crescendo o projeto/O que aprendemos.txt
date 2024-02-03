@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- Conteúdo de sedimentação de como criar, ler, atualizar e remover recursos no sistema.
+
+- O .NET por si só é capaz de gerenciar múltiplos recursos e endpoints através de uma API.
+
+- O Entity provê a capacidade de relacionar entidades dentro de um banco de dados.
+
+- Através do Entity conseguimos abstrair questões de dependências entre entidades a nível de banco.

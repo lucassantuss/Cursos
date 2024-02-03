@@ -1,0 +1,13 @@
+O que aprendemos?
+
+- Que um relacionamento 1:1 cria um vínculo entre uma e somente uma entidade dos dois lados.
+
+- Podemos definir a cardinalidade do relacionamento através das propriedades do modelo.
+
+- Como definir relações de dependência através das propriedades.
+
+- Como habilitar e utilizar Lazy Properties com o método UseLazyLoadingProxies().
+
+- Propriedades lazy podem ser acessadas diretamente em tempo de execução.
+
+- Como fazer mapeamentos mais complexos com os métodos ForMember() e MapFrom().

@@ -1,0 +1,11 @@
+O que aprendemos?
+
+- Que um relacionamento n:n cria um vínculo entre muitas e muitas entidades.
+
+- Como criar e customizar relacionamentos através do método OnModelCreating().
+
+- Um relacionamento n:n pode ser composto por dois relacionamentos 1:n através de uma tabela auxiliar.
+
+- Deleções em cascata são perigosas, pois podem apagar todos os dados de determinado fluxo em cadeia.
+
+- Como alterar o comportamento de deleção padrão através do DbContext.

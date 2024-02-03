@@ -1,0 +1,7 @@
+Para saber mais: outros tipos de deleção
+
+- O Entity provê diferentes comportamentos que podem ser utilizados no 
+momento de deleção de alguma entidade no banco. Esses diferentes tipos 
+podem ser consultados na documentação oficial.
+
+-> https://learn.microsoft.com/pt-br/ef/core/saving/cascade-delete
