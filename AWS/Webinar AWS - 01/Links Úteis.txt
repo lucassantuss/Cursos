@@ -1,0 +1,29 @@
+Amazon CodeWhisperer
+> https://aws.amazon.com/pt/codewhisperer/
+
+Amazon Q (Preview)
+> https://aws.amazon.com/pt/q/
+
+Amazon Q is your business expert (Preview)
+> https://aws.amazon.com/pt/q/business-expert/
+
+Treinamento de Amazon Codewhisperer
+> https://explore.skillbuilder.aws/learn/course/external/view/elearning/17465/amazon-codewhisperer-introducao-portugues-amazon-codewhisperer-getting-started-portuguese
+
+PartyRock AWS
+> https://partyrock.aws/
+
+Blog partyrock
+> https://aws.amazon.com/pt/blogs/aws/build-ai-apps-with-partyrock-and-amazon-bedrock/
+
+Amazon Bedrock
+> https://aws.amazon.com/pt/bedrock/
+
+Treinamento gratuito de Amazon Bedrock
+> https://explore.skillbuilder.aws/learn/course/external/view/elearning/17807/introducao-ao-amazon-bedrock-portugues-amazon-bedrock-getting-started-portuguese
+
+Amazon Bedrock Workshop
+> https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/en-US
+
+Knowledge bases
+> https://www.youtube.com/live/tS8GfsnMSbI?si=2iiz25CXAlSnl0T4
