@@ -1,0 +1,12 @@
+O que aprendemos?
+
+- Criamos um método de teste para testar exceções mapeadas no desenvolvimento da aplicação;
+
+- Conseguimos passar um método a ser testado para o Assert.Throws, que é o método do xUnit 
+para testarmos as exceções;
+
+- Nos testes de regressão adicionamos novas funcionalidades à aplicação “quebrando” testes 
+que já funcionavam;
+
+- Para a evolução da aplicação não regredir,conforme implementamos novas funções, precisamos 
+sempre fazer testes.

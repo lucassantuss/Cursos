@@ -1,0 +1,16 @@
+O que aprendemos?
+
+- Podemos usar o Visual Studio Community para configurar um projeto de teste;
+
+- Podemos utilizar a CLI, a linha de comando, para criar e configurar nossa 
+solução e projeto de teste;
+
+- Testes de unidade são testes que tem por objetivo testar as menores unidades 
+de um código, as classes;
+
+- Usamos o padrão de escrita AAA (Arrange, Act, Assert) para permitir que a 
+escrita do código de teste siga uma sequência lógica, que será útil para 
+o entendimento e futuras manutenções;
+
+- Escrevemos códigos de testes com xUnit porque este é um dos mais utilizados 
+frameworks de testes em .NET do mercado.

@@ -1,0 +1,12 @@
+O que aprendemos?
+
+- Boas práticas na nomeação de métodos de testes podem facilitar o entendimento do que 
+estamos testando;
+
+- Para seguir as boas práticas de nomenclatura, podemos precisar refatorar os nomes de 
+nossos métodos de testes;
+
+- Os conceitos de Setup e Cleanup na escrita de métodos de testes permitem otimizar a 
+escrita de nossos códigos, reaproveitando-os;
+
+- Usamos o ITestOutputHelper para escrever no console do gerenciador de testes.

@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- O conceito do TDD e como aplicá-lo, guiando o desenvolvimento da nossa solução 
+de estacionamento com base no teste;
+
+- De acordo com o desenvolvimento orientado por testes, primeiro escrevemos o teste 
+e depois a implementação da funcionalidade;
+
+- A prática do TDD pode ajudar no aprimoramento dos comportamentos de uma classe.

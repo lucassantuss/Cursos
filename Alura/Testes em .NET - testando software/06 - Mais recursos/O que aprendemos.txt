@@ -1,0 +1,7 @@
+O que aprendemos?
+
+- Podemos testar um método privado por meio da chamada de um método público que o utiliza. 
+Assim não contrariamos os conceitos de encapsulamento e visibilidade;
+
+- Devemos analisar a necessidade da criação de códigos de testes para cada funcionalidade, 
+assim não fazemos testes desnecessários, apenas os fundamentais.
