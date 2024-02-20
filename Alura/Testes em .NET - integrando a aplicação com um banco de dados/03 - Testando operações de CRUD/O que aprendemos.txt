@@ -1,0 +1,12 @@
+O que aprendemos?
+
+- Testar operações de Select na base de dados do MySQL por meio do Entity Framework;
+
+- Observar testes que passam, mas não deveriam passar (falsos positivos), como o 
+caso de receber um objeto não-nulo, porém vazio em uma consulta à base de dados;
+
+- Testar operações de CRUD criando objetos e inserindo/atualizando informações no 
+banco de dados;
+
+- Realizar um teste para validar as exceções que podem ocorrer ao se consultar uma 
+informação que não existe no serviço de banco de dados.

@@ -1,0 +1,13 @@
+O que aprendemos?
+
+- Padronizar os testes focando na nomenclatura dos métodos, já que usar nomes 
+claros ajudará na legibilidade e nas futuras manutenções no código, 
+caso isso seja necessário.
+
+- Criar um setup para nos ajudar a validar os resultados da execução usando 
+o console do gerenciador de testes.
+
+- Pode ser vantajoso adotar boas práticas nos testes porque assim nosso 
+código pode ganhar em performance. Aumentamos nossa produtividade ao 
+conhecer padrões de desenvolvimento já utilizados, por exemplo, 
+a injeção de dependências.

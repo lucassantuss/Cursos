@@ -1,0 +1,8 @@
+O que aprendemos?
+
+- Configurar nosso ambiente com um banco de dados e a IDE Visual Studio Community 2019 
+para receber o projeto Alura.ByteBank;
+
+- Executar migrações usando o entity Framework para configurar nosso banco de dados;
+
+- Instalar nosso banco de dados MySQL e uma ferramenta de acesso e gerência, o WorkBench.

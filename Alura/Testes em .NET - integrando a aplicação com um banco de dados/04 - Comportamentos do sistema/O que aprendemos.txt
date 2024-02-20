@@ -1,0 +1,17 @@
+O que aprendemos?
+
+- Configurar o projeto para utilizar a biblioteca Moq;
+
+- Criar um teste utilizando mock para verificar comportamentos esperados de 
+um objeto;
+
+- Utilizar o conceito de stubs para testar retornos previstos de acordo com os 
+parâmetros passados para um objeto fake;
+
+- Pode ser importante testar a simulação de comportamentos de sistemas que 
+utilizam serviços compartilhados, garantindo assim que todos continuem usando 
+estas informações sem problemas;
+
+- Criar repositórios de dados fakes no projeto de testes. garantindo que os 
+dados com que trabalhamos não sejam alterados por outras pessoas ou serviços
+ que também fazem uso da base compartilhada.

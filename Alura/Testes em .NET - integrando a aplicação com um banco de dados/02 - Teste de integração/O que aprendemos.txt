@@ -1,0 +1,11 @@
+O que aprendemos?
+
+- Criar um novo projeto de teste com xUnit;
+
+- Criar nosso primeiro teste de integração para validar uma conexão com o serviço de banco de dados;
+
+- Realizar uma migração que insere algumas informações nas tabelas do banco de dados usando 
+o recurso das migrações com Entity Framework;
+
+- Utilizar o pacote using Microsoft.Extensions.DependencyInjection; do .NET para criar uma 
+injeção de dependência no construtor da classe de testes.
