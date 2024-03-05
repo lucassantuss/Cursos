@@ -1,0 +1,15 @@
+O que aprendemos?
+
+- Para criar uma conta no Azure e vinculá-la ao Azure DevOps, precisamos 
+primeiramente criar uma conta na Microsoft;
+
+- A plataforma de nuvem que utilizaremos para hospedar a aplicação do 
+ByteBank será a Azure;
+
+- Por meio do Azure Devops teremos suporte para a implementação de 
+integração e entrega contínua da aplicação, de forma automatizada;
+
+- DevOps é a integração cada vez maior da equipe de desenvolvimento e 
+operações, criando uma cultura com o intuito de entregar uma solução de 
+software com mais valor e qualidade, otimizando processos e automatizando 
+rotinas.

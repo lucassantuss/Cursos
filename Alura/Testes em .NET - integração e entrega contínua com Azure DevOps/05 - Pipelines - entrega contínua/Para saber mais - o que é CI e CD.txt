@@ -1,0 +1,7 @@
+Para saber mais - o que é CI/CD?
+
+Agilidade e DevOps: Um dia no desenvolvimento de software
+> https://cursos.alura.com.br/course/agilidade-devops-desenvolvimento-software
+
+Gitlab CI e Docker: Pipeline de entrega contínua
+> https://cursos.alura.com.br/course/gitlab-docker-integracao-continua

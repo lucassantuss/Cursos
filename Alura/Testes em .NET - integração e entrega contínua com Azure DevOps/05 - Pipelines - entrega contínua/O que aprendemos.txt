@@ -1,0 +1,15 @@
+O que aprendemos?
+
+- Como configurar uma Build Pipeline no Azure Devops para iniciar um processo 
+de implantação da solução Alura.ByteBank no serviço de Cloud da Microsoft, o 
+Azure um passo de grande importância para começarmos a adotar príncipios 
+agéis e DevOps;
+
+- Como criar e configurar uma release Pipeline para implementar a entrega 
+contínua na solução de automação Devops desenvolvida, assim entregando as 
+funcionalidades para o usuário de forma dinâmica e ágil;
+
+- Como automatizar um processo de integração e entrega contínua, monitorando 
+desde as alterações do código, passando pelos processo de restore, build e 
+entrega da solução na plataforma a ser utilizada pelo cliente final e com 
+isso entregar cada vez mais valor ao processo de criação de um software.

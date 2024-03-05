@@ -1,0 +1,13 @@
+Para saber mais - o que é agilidade?
+
+Manifesto Ágil
+> https://agilemanifesto.org/iso/ptbr/manifesto.html
+
+Cascata vs Ágil (Alura +)
+> https://cursos.alura.com.br/extra/alura-mais/cascata-vs-agil-c742
+
+Curso Práticas ágeis: O dia a dia do ambiente Agile)
+> https://www.alura.com.br/curso-online-praticas-ageis
+
+Podcast Scrum e Agile para além de Tecnologia)
+> https://www.alura.com.br/podcast/scrum-e-agile-para-alem-de-tecnologia-hipsters-115-a467

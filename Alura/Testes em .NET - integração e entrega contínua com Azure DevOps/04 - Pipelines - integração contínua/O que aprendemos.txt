@@ -1,0 +1,13 @@
+O que aprendemos?
+
+- Como criar uma automação para o processo que monitora alterações do código 
+e inicia o trabalho de restore, build e execução dos testes de um projeto de 
+software usando o Azure DevOps gerando benefícios de agilidade a todo o processo;
+
+- Configurar a integração contínua com um repositórios de códigos GitHub dentro 
+de uma Build Pipeline criada no Azure DevOps e possibilitar assim uma maior 
+flexibilidade na obtenção do código que será compilado, podendo inclusive 
+configurar outros repositórios como Bitbucket;
+
+- Como configurar a task de uma Build Pipeline para executar os testes da solução 
+Alura.ByteBank de maneira automática em cada alteração do código.

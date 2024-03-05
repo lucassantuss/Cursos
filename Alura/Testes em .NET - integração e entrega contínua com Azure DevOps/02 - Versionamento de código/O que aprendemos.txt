@@ -1,0 +1,11 @@
+O que aprendemos?
+
+- A importância do controle de código dentro de um processo de desenvolvimento 
+de software para rastreabilidade alterações no código;
+
+- Podemos criar uma service connection com o objetivo de integrar a ferramenta 
+do Azure DevOps com o controle de código GitHub, que será a origem do código-fonte 
+a ser usado no processo de integração e entrega contínua;
+
+- Existe a alternativa de controle de código-fonte disponibilizada pelo Azure DevOps, 
+pois pode ser que nem todas as empresas utilizem o Git/GitHub.

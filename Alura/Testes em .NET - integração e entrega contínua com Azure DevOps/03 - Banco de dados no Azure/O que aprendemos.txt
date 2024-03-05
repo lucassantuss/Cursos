@@ -1,0 +1,8 @@
+O que aprendemos?
+
+- Será necessária a criação de um servidor de banco de dados MySQL no portal do Azure 
+para hospedar o banco de dados da aplicação. No nosso caso, do ByteBank;
+
+- Configurar o servidor MySQL para acesso remoto por uma aplicação pelo Portal do Azure;
+
+- Fazer as migrations de uma solução .NET para executar comando SQL no servidor online do MySQL.

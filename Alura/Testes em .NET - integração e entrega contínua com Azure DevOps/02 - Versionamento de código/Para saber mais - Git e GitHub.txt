@@ -1,0 +1,7 @@
+Para saber mais - Git e GitHub
+
+Artigo - Primeiros passos com Git e GitHub
+> https://www.alura.com.br/artigos/o-que-e-git-github
+
+WebSérie - Git e Github para sobrevivência
+> https://cursos.alura.com.br/extra/webseries-git-github/como-o-git-funciona-w1258

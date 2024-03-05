@@ -1,0 +1,13 @@
+Para saber mais - o que é o Azure
+
+Azure: Deploy de uma webapp na nuvem da Microsoft
+> https://cursos.alura.com.br/course/introducao-ao-azure-com-webapps-e-sql
+
+Azure: Gerencie Kubernetes com AKS e ACR
+> https://cursos.alura.com.br/course/azure-gerencie-kubernetes-com-aks-acr
+
+Azure Armazenamento: Trabalhando com File e Blob
+> https://cursos.alura.com.br/course/azure-file-blob-conta-de-armazenamento
+
+Azure Functions: Rodando código sem servidor
+> https://cursos.alura.com.br/course/azure-functions
