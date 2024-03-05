@@ -1,0 +1,13 @@
+O que aprendemos?
+
+- Conhecemos o projeto que iremos trabalhar neste curso o Alura.ByteBank.WebApp;
+
+- Aprendemos a configurar o projeto, seu banco de dados e a rodar a aplicação 
+para o projeto de testes;
+
+- Conhecemos um pouco sobre o projeto Selenium IDE e como ele pode ser útil 
+para gravarmos ações de utilizações de um sistema Web;
+
+- Aprendemos como gerar um script usando a ferramenta Selenium IDE e exportar 
+o código gerado que poderá ser reaproveitado na escrita de futuros métodos 
+de testes de interface.

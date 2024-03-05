@@ -1,0 +1,7 @@
+Para saber mais - O que é Css
+
+HTML, CSS e Javascript, quais as diferenças?
+> https://www.alura.com.br/artigos/html-css-e-js-definicoes
+
+Reset CSS: O que é, Exemplos, Como Criar e Utilizar
+> https://www.alura.com.br/artigos/o-que-e-reset-css

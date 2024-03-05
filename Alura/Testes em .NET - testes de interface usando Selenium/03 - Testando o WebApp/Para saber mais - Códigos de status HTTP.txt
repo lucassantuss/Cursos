@@ -1,0 +1,2 @@
+Códigos de status de respostas HTTP
+> https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status

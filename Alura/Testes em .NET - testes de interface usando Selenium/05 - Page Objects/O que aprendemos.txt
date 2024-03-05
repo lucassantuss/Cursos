@@ -1,0 +1,13 @@
+O que aprendemos?
+
+- O que são Page Objects e como esse padrão pode ser útil para manutenção 
+do código de testes;
+
+- Usar Page Objects para separar o código do Selenium WebDriver do código 
+de teste, deixando mais limpo e orientado à objetos;
+
+- Criar uma estratégia de código que permita a gerência do navegador, 
+possibilitando a otimização deste recurso;
+
+- Podemos adotar boas práticas que nos ajudem a otimizar o código de teste 
+e aplicar padrão recomendado pelo próprio Selenium.

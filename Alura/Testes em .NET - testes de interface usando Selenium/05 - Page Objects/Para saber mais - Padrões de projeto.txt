@@ -1,0 +1,10 @@
+Para saber mais - Padrões de projeto
+
+Design patterns: Breve introdução aos padrões de projeto
+> https://www.alura.com.br/artigos/design-patterns-introducao-padroes-projeto
+
+Design Patterns - Hipsters#206
+> https://www.alura.com.br/podcast/hipsterstech-design-patterns-hipsters-206-a345
+
+Curso Design Patterns C# I: Boas práticas de programação
+> https://www.alura.com.br/curso-online-csharp-boas-praticas-refatoracao-codigo-legivel

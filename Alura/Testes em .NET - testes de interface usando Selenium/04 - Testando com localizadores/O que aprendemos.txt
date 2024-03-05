@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- Outras formas de capturar os elementos de uma página HTML para não ficarmos 
+restritos ao Id ou Name;
+
+- Criar uma lista de elementos que estão na página usando a biblioteca do 
+Selenium WebDriver, o que pode deixar nosso código mais dinâmico;
+
+- Escrever no console do gerenciador de testes usando recursos do próprio xUnit.

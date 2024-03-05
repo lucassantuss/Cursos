@@ -1,0 +1,8 @@
+O que aprendemos?
+
+- Criar um projeto do xUnit e configurar a biblioteca do Selenium WebDriver para 
+criar um teste automatizado da interface da aplicação;
+
+- Criar nosso primeiro teste usando o Selenium WebDriver;
+
+- Recuperar um código gerado pelo Selenium IDE como um teste na nossa suite de testes.

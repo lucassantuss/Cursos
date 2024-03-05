@@ -1,0 +1,11 @@
+O que aprendemos?
+
+- Identificar um elemento específico no html usando a biblioteca do Selenium WebDriver;
+
+- Capturar o elemento html para um código C# para a escrita do código de testes;
+
+- Manipular campos de texto dentro de uma aplicação usando Selenium WebDriver para 
+testar a interação de um formulário;
+
+- Validar urls restritas de uma aplicação com foco em validar questões como segurança 
+da aplicação.
