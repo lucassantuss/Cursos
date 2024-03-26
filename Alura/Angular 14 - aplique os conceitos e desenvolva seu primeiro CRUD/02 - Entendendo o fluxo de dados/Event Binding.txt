@@ -1,0 +1,9 @@
+Exemplo de Event Binding
+
+> (click)="criarPensamento()"
+
+<button (click)="criarPensamento()" class="botao">Salvar</button>
+
+criarPensamento() {
+  alert("Novo pensamento criado!")
+}

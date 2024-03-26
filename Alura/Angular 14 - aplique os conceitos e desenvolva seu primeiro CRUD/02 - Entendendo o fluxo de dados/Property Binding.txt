@@ -1,0 +1,16 @@
+Exemplos de Property Binding
+
+-> {{ pensamento.conteudo }}
+
+<p class="conteudo">{{ pensamento.conteudo }}</p>
+
+-> [value]="pensamento.conteudo"
+
+<input
+   type="textarea"
+   class="input"
+   id="pensamento"
+   name="pensamento"
+   placeholder="Digite o pensamento"
+   [value]="pensamento.conteudo"
+>

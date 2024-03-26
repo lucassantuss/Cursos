@@ -1,0 +1,4 @@
+Para saber mais - Auto Import
+
+> Baixar extensão do VSCode
+> Auto Import

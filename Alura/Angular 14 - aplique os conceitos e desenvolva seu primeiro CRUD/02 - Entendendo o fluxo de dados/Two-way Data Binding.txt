@@ -1,0 +1,12 @@
+Exemplo de Two-Way Data Binding
+
+> [(ngModel)]="pensamento.conteudo"
+
+<input
+   type="textarea"
+   class="input"
+   id="pensamento"
+   name="pensamento"
+   placeholder="Digite o pensamento"
+   [(ngModel)]="pensamento.conteudo"
+>
