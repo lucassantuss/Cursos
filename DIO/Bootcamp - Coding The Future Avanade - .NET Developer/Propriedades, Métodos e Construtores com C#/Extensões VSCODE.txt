@@ -1,0 +1,6 @@
+Extensões no VS CODE
+
+C#
+C# Extensions
+vscode-icons
+vscode-solution-explorer
