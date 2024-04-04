@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        List<string> itens = new List<string>();
+        
+        for (int i = 0; i < 3; i++)
+        {
+            string item = Console.ReadLine();
+           
+            itens.Add(item);
+        }
+        
+        Console.WriteLine("Lista de itens:");
+        foreach (string item in itens)
+        {
+            Console.WriteLine($"- {item}");
+        }
+    }
+}

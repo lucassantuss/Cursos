@@ -1,0 +1,24 @@
+using System;
+
+class Program
+{
+    static int CalcularDano(int ataque, int defesa)
+    {
+      int dano = ataque - defesa;
+      
+      if (dano > 0)
+        return dano;
+      else
+        return 0;
+    }
+
+    static void Main(string[] args)
+    {
+        int ataque = int.Parse(Console.ReadLine());
+        
+        int defesa = int.Parse(Console.ReadLine());
+        
+        int danoCausado = CalcularDano(ataque, defesa);
+        Console.WriteLine("O dano causado pelo ataque foi: " + danoCausado);
+    }
+}
