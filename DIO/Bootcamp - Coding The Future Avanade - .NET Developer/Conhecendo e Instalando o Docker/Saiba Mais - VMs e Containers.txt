@@ -1,0 +1,3 @@
+Diferenças entre containers e máquinas virtuais (VMs)
+
+> https://www.redhat.com/pt-br/topics/containers/containers-vs-vms

@@ -1,0 +1,7 @@
+Comandos essenciais 
+
+> https://medium.com/xp-inc/principais-comandos-docker-f9b02e6944cd
+
+> https://docs.docker.com/engine/reference/commandline/docker/
+
+> https://dev.to/soutoigor/docker-imagens-containers-e-seus-principais-comandos-23p6

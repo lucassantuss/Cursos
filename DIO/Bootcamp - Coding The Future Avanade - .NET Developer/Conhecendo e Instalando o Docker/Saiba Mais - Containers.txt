@@ -1,0 +1,5 @@
+O que são containers? 
+
+> https://www.ibm.com/br-pt/cloud/learn/containers
+
+> https://www.redhat.com/pt-br/topics/containers

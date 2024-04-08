@@ -1,0 +1,5 @@
+O que é Docker?
+
+> https://www.redhat.com/pt-br/topics/containers/what-is-docker
+
+> https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/container-docker-introduction/docker-defined
