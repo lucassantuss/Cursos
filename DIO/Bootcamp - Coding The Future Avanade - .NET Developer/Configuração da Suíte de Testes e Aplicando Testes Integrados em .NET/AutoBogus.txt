@@ -1,0 +1,5 @@
+Framework para gerar dados Fakes
+
+https://github.com/nickdodd79/AutoBogus
+
+instala no Nuget Package do VS
