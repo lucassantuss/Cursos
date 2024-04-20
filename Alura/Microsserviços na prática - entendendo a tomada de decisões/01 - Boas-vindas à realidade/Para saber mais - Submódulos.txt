@@ -1,0 +1,6 @@
+** Para saber mais - Submódulos **
+
+-> Há um comando mais simples que permite o clone do projeto usando os submódulos. 
+Basta adicionar a opção --recursive. Sendo assim, o comando completo fica:
+
+git clone --recursive https://github.com/CViniciusSDias/alura-ms.git

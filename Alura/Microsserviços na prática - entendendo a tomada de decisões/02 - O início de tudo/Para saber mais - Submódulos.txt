@@ -1,0 +1,9 @@
+** Para saber mais - Submódulos **
+
+-> Submódulos são uma ferramenta bastante poderosa do Git,
+mas com grandes poderes, vêm grandes responsabilidades.
+
+-> Nesse artigo você pode aprender um pouco mais sobre essa técnica:
+
+Git submodules
+> https://www.atlassian.com/git/tutorials/git-submodule

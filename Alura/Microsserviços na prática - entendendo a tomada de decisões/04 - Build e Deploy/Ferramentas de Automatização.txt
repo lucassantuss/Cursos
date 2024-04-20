@@ -1,0 +1,7 @@
+** Ferramentas de Automatização **
+
+- Jenkins
+
+- Travis CI
+
+- GitHub Actions

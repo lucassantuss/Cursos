@@ -1,0 +1,7 @@
+O que aprendemos?
+
+- Falamos sobre a possibilidade de ter mais de uma aplicação front-end;
+
+- Discutimos sobre Optimistic and Pessimistic UI Rendering;
+
+- Conhecemos o conceito de micro frontends.

@@ -1,0 +1,7 @@
+O que aprendemos?
+
+- Aprendemos sobre organização de projetos e multi vs monorepo;
+
+- Entendemos as vantagens e desvantagens de cada abordagem;
+
+- Aprendemos também o conceito de submódulos do Git.

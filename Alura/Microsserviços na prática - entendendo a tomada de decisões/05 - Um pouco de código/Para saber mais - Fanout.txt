@@ -1,0 +1,8 @@
+** Para saber mais - Fanout **
+
+-> Neste vídeo nós vimos como funciona o processo de fanout em exchanges do RabbitMQ. 
+
+RabbitMQ
+-> https://www.rabbitmq.com/tutorials/tutorial-three-dotnet
+
+Obs: do lado direito da página é possível escolher sua linguagem de programação favorita

@@ -1,0 +1,7 @@
+O que aprendemos?
+
+- Vimos que cada projeto pode ter uma arquitetura e design de código diferentes;
+
+- Entendemos como podemos executar tarefas de plano de fundo;
+
+- Aprendemos como funciona o envio de mensagens usando RabbitMQ.

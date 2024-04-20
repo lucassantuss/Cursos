@@ -1,0 +1,7 @@
+O que aprendemos?
+
+- Analisamos a infraestrutura de um projeto com microsserviços;
+
+- Vimos como tornar serviços independentes;
+
+- Aprendemos que seguir os 12 fatores pode nos ajudar.

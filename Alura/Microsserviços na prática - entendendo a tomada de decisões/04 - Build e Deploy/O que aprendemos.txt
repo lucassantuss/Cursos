@@ -1,0 +1,11 @@
+O que aprendemos?
+
+- Aprendemos que cada projeto pode ter seu processo de build;
+
+- Conhecemos ferramentas como Jenkins, Travis CI e GitHub Actions;
+
+- Criamos um workflow no GitHub Actions;
+
+- Vimos o build falhar e o corrigimos;
+
+- Tornamos nosso processo mais robusto, exigindo pull requests e reviews.

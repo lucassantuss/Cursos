@@ -1,0 +1,7 @@
+O que aprendemos?
+
+- Executamos um projeto real que usa microsserviços;
+
+- Conhecemos na prática uma separação de componentes;
+
+- Vimos comunicação assíncrona acontecendo entre serviços.

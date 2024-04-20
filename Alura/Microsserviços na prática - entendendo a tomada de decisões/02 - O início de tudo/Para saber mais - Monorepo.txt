@@ -1,0 +1,7 @@
+** Para saber mais - Monorepo **
+
+-> Se quiser se aprofundar um pouco mais sobre esse conceito e as vantagens e 
+desvantagens de monorepo, você pode conferir aqui:
+
+Monorepo (Por Que Essa Estratégia Funciona em Grandes Empresas?)
+> https://www.youtube.com/watch?v=BbNIuUy_F0w
