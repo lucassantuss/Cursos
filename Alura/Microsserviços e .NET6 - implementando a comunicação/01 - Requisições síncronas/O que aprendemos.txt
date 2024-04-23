@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- Como fazer uma comunicação síncrona com http.
+
+- Devemos serializar dados para trafegá-los.
+
+- Como enviar dados através do método PostAsync().
+
+- Como receber os dados devidamente serializados por uma aplicação.

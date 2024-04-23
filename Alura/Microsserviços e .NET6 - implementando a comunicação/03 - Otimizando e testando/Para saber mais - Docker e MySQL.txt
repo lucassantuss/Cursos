@@ -1,0 +1,17 @@
+** Para saber mais - Docker e MySQL **
+
+Atualmente, estamos usando o Docker para containerizar um banco MySQL 
+a fim de garantir o funcionamento de nosso sistema. Como dito anteriormente, 
+nossa preocupação atual não é na questão da persistência de dados através de 
+um container, porém, para expandirmos as possibilidades, podemos também 
+configurar o container que executará o MySQL de outras maneiras utilizando 
+diversas variáveis de ambiente, por exemplo:
+
+- A variável de ambiente MYSQL_DATABASE permite definir o nome do banco criado.
+
+- Com a variável MYSQL_RANDOM_ROOT_PASSWORD é possível gerar uma senha aleatória para o banco.
+
+Estas e outras configurações podem ser consultadas através da documentação oficial da imagem.
+
+Documentação
+-> https://hub.docker.com/_/mysql

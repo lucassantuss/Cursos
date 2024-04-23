@@ -1,0 +1,16 @@
+** Para saber mais - serviços em segundo plano **
+
+Para o fluxo de nosso projeto, foi necessário que definissemos um serviço 
+em execução em segundo plano, um *BackgroundService*. 
+
+Durante o cotidiano de trabalho e projetando outras aplicações, 
+outras necessidades acerca da utilização do *BackgroundService* podem 
+aparecer, um exemplo seria executar uma tarefa ao final 
+da lógica de nosso serviço, sobrescrevendo o método *StopAsync()*.
+
+Outros comportamentos podem ser sobrescritos conforme necessidade. 
+Para mais possibilidades do que pode ser feito através do BackgroundService, 
+você pode consultar a documentação oficial.
+
+Documentação
+-> https://learn.microsoft.com/pt-br/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-6.0&tabs=visual-studio

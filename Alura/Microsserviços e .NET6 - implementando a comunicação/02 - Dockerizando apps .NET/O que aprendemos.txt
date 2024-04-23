@@ -1,0 +1,7 @@
+O que aprendemos
+
+- Utilizar o Docker facilita o processo de deploy.
+
+- Como configurar o Docker para gerar containers para aplicações .NET.
+
+- Escrever o Dockerfile para gerar a imagem de uma aplicação .NET.

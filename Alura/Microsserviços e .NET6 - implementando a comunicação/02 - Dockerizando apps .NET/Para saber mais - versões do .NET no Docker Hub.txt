@@ -1,0 +1,16 @@
+** Para saber mais - versões do .NET no Docker Hub **
+
+Como dito em vídeo, utilizaremos a versão respectiva a versão 6 do .NET. 
+Porém, é possível utilizar também outras versões caso seja necessário 
+para o projeto que esteja trabalhando. 
+
+Para consultar outras versões, basta acessar o link da documentação e 
+baixar a versão de imagem necessária.
+
+Documentação
+-> https://hub.docker.com/_/microsoft-dotnet-sdk
+
+Diversas tags estão disponíveis:
+
+Tags
+-> https://cdn3.gnarususercontent.com.br/2461-microsservicos/02/Tags.png

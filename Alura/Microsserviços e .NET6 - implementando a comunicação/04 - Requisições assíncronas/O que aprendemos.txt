@@ -1,0 +1,10 @@
+O que aprendemos?
+
+- Requisições síncronas podem ser fáceis de implementar, porém possuem limitações.
+
+- Em uma requisição síncrona, devemos esperar pela resposta.
+
+- Requisições assíncronas são mais difíceis de implementar, 
+porém com elas temos maior confiabilidade em nossa comunicação.
+
+- Como configurar a nível de código o RabbitMQ como ferramenta de mensageria.
