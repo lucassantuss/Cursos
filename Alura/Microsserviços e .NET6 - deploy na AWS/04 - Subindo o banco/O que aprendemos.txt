@@ -1,0 +1,9 @@
+O que aprendemos
+
+- Bancos em containers/pods possuem deficiência de persistência de dados.
+
+- O que é e como utilizar o RDS.
+
+- Como estabelecer comunicação entre diferentes instâncias em uma mesma VPC.
+
+- Como liberar acesso através dos grupos de segurança.

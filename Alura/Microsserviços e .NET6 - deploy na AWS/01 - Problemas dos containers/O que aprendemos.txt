@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- O Docker, em sua forma base, não possui recursos robustos de escalabilidade 
+e disponibilidade.
+
+- Revisamos os conceitos de cluster.
+
+- Visualizamos possíveis casos de falhas no uso de containers, como sobrecarga, 
+problemas de aplicações e falta de recursos computacionais.

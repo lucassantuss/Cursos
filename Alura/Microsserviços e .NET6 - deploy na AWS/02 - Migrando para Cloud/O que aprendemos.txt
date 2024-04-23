@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- Como criar um cluster com o EKS.
+
+- Como criar um grupo de nós a fim de mantermos máquinas para execução de aplicações.
+
+- Como vincular o kubectl ao cluster criado através do comando aws eks.
+
+- Como se autenticar e subir imagens para o ECR.

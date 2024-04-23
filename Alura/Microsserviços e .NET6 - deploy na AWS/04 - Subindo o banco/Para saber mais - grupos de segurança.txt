@@ -1,0 +1,10 @@
+** Para saber mais - grupos de segurança **
+
+Para estabelecer a comunicação entre nossos pods e o banco de dados gerenciado pelo RDS, 
+foi necessário permitir o acesso por meio de grupos de segurança (security groups). 
+Tais recursos funcionam como um firewall que autoriza ou nega o acesso entre instâncias. 
+
+Mais informações a respeito do tema podem ser adquiridas através da documentação oficial.
+
+-> Documentação
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ec2-security-groups.html

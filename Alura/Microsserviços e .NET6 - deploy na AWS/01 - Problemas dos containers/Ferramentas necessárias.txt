@@ -1,0 +1,12 @@
+** Ferramentas necessárias **
+
+Precisaremos para este curso as seguintes ferramentas:
+
+kubectl
+-> https://kubernetes.io/docs/tasks/tools/
+
+docker
+-> https://docs.docker.com/desktop/install/windows-install/
+
+aws cli
+-> https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html

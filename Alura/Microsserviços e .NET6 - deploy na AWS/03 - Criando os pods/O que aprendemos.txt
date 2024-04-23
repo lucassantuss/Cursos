@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- Podemos validar o comportamento de aplicações e acessá-las através do comando kubectl port-forward.
+
+- Como avaliar o comportamento de pods através do comando kubectl logs.
+
+- Como inspecionar detalhes de um pod através do comando kubectl describe.
+
+- Comunicar diferentes pods com a utilização de services.

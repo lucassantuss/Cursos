@@ -1,0 +1,9 @@
+** Para saber mais - outros serviços **
+
+Anteriormente utilizamos o serviço do tipo ClusterIP para comunicação entre aplicações 
+dentro do cluster. Porém, também temos outros serviços como NodePort e LoadBalancer.
+
+Mais informações podem ser adquiridas de como e quando utilizá-los através da documentação oficial.
+
+-> Documentação
+https://kubernetes.io/docs/concepts/services-networking/service/

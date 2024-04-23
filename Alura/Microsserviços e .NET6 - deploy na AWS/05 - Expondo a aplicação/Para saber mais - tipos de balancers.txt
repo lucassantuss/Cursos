@@ -1,0 +1,9 @@
+** Para saber mais - tipos de balancers **
+
+A fim de expor nossas aplicações por meio de load balancers, a AWS disponibiliza diferentes 
+categorias de balanceadores, cada um com sua respectiva finalidade.
+
+Para conhecê-los e entender suas aplicações, você pode consultar a documentação oficial.
+
+-> Documentação
+https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/load-balancer-types.html

@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- Corrigir aplicações e aplicar as mudanças através do arquivo de definição.
+
+- Etiquetar imagens com o comando docker tag.
+
+- Criar load balancers através dos arquivos YAML.
+
+- Utilizar grupos de segurança para liberar acesso para qualquer origem.
