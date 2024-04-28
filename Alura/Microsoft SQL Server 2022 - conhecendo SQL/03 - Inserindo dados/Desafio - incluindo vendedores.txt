@@ -1,0 +1,23 @@
+** Desafio - incluindo vendedores **
+
+Agora que já aprendemos a inserir diversos dados ao mesmo tempo em uma tabela, chegou o momento de 
+colocarmos a mão na massa.
+
+Na empresa surgiu uma nova demanda. Algumas informações específicas precisam ser inseridas, porém 
+há dificuldades para realizar essa tarefa de maneira eficiente e sem erros.
+
+Como podemos de uma única vez auxiliar o time inserindo os novos dados nessa tabela de vendedores?
+
+Para essa ação, considere os seguintes dados:
+
+Matrícula		Nome				Comissão
+00236			Claúdia Morais		8%
+00237			Marcela Ferreira		9%
+00238			Márcio Almeida		8%
+
+Resolução:
+
+INSERT INTO [TABELA DE VENDEDORES] VALUES
+('00236', 'Claúdia Morais', 0.08),
+('00237', 'Marcela Ferreira', 0.09),
+('00238', 'Márcio Almeida', 0.08);

@@ -1,0 +1,11 @@
+O que aprendemos?
+
+- Inserir dados utilizando o comando INSERT;
+
+- Incluir dados fora da ordem dos campos da tabela;
+
+- Inserir múltiplas linhas em uma única execução;
+
+- Identificar as restrições de uma chave primária;
+
+- Ler o erro que viola as restrições de uma chave primária.

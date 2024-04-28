@@ -1,0 +1,11 @@
+O que aprendemos?
+
+- Selecionar todos os dados de uma tabela utilizando o SELECT * FROM <nome_tabela>;
+
+- Consultar informações de colunas específicas executando SELECT <colunas> FROM <nome_tabela>;
+
+- Exibir registros ordenados utilizando o ORDER BY;
+
+- Personalizar uma consulta aos dados apelidando determinadas colunas com o AS;
+
+- Eliminar valores duplicados da consulta usando o SELECT DISTINCT.

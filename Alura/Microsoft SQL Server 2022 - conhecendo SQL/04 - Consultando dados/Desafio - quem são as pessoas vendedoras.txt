@@ -1,0 +1,13 @@
+** Desafio - quem são as pessoas vendedoras **
+
+Seguindo nos desafios da tabela das pessoas vendedoras, anteriormente criamos e preenchemos 
+com informações, agora o desafio é visualizar a tabela [TABELA DE VENDEDORES]. O objetivo 
+é mostrar o campo MATRICULA com o apelido IDENTIFICADOR e o campo NOME apelidado por 
+NOME DO VENDEDOR.
+
+Resolução:
+
+SELECT 
+	[MATRICULA] AS [IDENTIFICADOR],
+	[NOME] AS [NOME DO VENDEDOR]
+FROM [TABELA DE VENDEDORES]

@@ -1,0 +1,11 @@
+O que aprendemos?
+
+- Identificar as necessidades da Frutally a empresa case;
+
+- Instalar a versão SQL Server 22;
+
+- Instalar o ambiente de desenvolvimentos SSMS: SQL Server Management Studio;
+
+- Categorizar os fatos históricos por trás da linguagem SQL;
+
+- Citar as principais vantagens e desvantagens dos bancos relacionais.

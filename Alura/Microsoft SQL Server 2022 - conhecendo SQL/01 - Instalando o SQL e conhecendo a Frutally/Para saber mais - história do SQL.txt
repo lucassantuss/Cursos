@@ -1,0 +1,25 @@
+** Para saber mais - história do SQL **
+
+-> SQL é uma sigla em inglês para Structured Query Language que pode ser livremente 
+traduzida para Linguagem de Consulta Estruturada. Trata-se de uma linguagem padrão 
+para trabalhar com bancos de dados relacionais.
+
+-> A história do SQL é um exemplo de como a inovação pode transformar uma tarefa difícil 
+em algo eficiente e valioso. No passado, o gerenciamento de grandes quantidades de dados 
+era uma tarefa extremamente desafiadora; porém, essa realidade durou até os anos 70 com a IBM, 
+como uma alternativa para os bancos sequenciais. Estruturados em uma lista de tabelas, eles 
+não tinham relação entre si. Com o passar do tempo, esse formato de armazenamento de dados 
+sofreu dificuldades para realizar a inclusão, alteração, exclusão de dados e outras necessidades, 
+aumentando a complexidade do manuseio de banco de dados.
+
+-> O surgimento da álgebra relacional, após os bancos sequenciais, foi uma outra alternativa que 
+serviu para interagir com essa categoria de bancos. No entanto, uma forte característica desse 
+momento era a presença de barreiras na perpetuação e na compreensão de todas as expressões 
+matemáticas usadas em álgebra relacional.
+
+-> Para entender a melhor maneira de trabalhar dados estruturados, os laboratórios da IBM 
+trouxeram as primeiras versões do SQL. Nesse mesmo movimento, outras empresas também começaram a 
+trabalhar nisso. Um órgão americano de padrões, o American National Standards Institute (ANSI) 
+resolveu unificar todas as iniciativas sobre o movimento do banco de dados SQL e promoveu um padrão 
+que, de início, chamou-se de SEQUEL (Structured Query Language) ou seja, Linguagem de Consulta 
+Estruturada em português. Já no Brasil, esse termo se popularizou com o nome de SQL (esse-quê-ele).

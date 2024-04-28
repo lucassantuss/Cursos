@@ -1,0 +1,23 @@
+** Para saber mais - prós e contras do SQL **
+
+-> A padronização da linguagem que trabalha com dados estruturados trouxe uma série de 
+vantagens, dentre elas podemos citar a facilidade de aprendizado e associação, 
+devido à sintaxe da linguagem SQL, que se assemelha às frases da língua inglesa. 
+Outra vantagem é o surgimento de vários outros sistemas de gerenciamento de banco de 
+dados que usam essa mesma linguagem. Com o padrão ANSI, que já citamos sobre a sua 
+atuação na atividade anterior, a Oracle começou a dar suporte à linguagem SQL e a 
+Microsoft ao SQL Server. Esse movimento possibilitou a adoção do SQL como padrão 
+para facilitar a integração de sistemas, mesmo em SGBDs diferentes.
+
+-> Vale ressaltar que atualmente a linguagem SQL tem suas limitações. 
+Em tempos de redes sociais e big data, surgiu a possibilidade de analisar dados 
+não-estruturados, como grafos, vídeos e imagens. Pelo fato da modelagem relacional 
+exigir chaves primárias e estrangeiras, nota-se que essa realidade acaba trazendo 
+uma iniciativa um pouco engessada. Contudo, quando se busca suprir a necessidade 
+de análise e armazenamento de dados não-estruturados o NoSQLs é a melhor alternativa.
+
+-> É possível compreender que a linguagem SQL prevaleceu quando se diz respeito a 
+modelos estruturados, e com a padronização ANSI surgiram várias facilidades para 
+empresas e desenvolvedores. Embora haja algumas desvantagens, o banco de dados 
+relacional ainda é campeão para gerir o pagamento e recebimento de uma empresa, 
+controlar o fluxo de produção e modelar quaisquer processos repetitivos.

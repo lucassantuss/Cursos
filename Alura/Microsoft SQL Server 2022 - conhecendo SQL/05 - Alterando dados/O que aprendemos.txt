@@ -1,0 +1,9 @@
+O que aprendemos?
+
+- Selecionar informações específicas usando o WHERE para criar filtros;
+
+- Realizar filtros em diversos tipos de colunas;
+
+- Aplicar os comandos AND, OR e NOT para adicionar condições e personalizar os filtros da consulta;
+
+- Deletar e atualizar informações usando o DELETE e o UPDATE respectivamente.

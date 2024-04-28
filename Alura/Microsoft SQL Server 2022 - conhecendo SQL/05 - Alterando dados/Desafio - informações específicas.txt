@@ -1,0 +1,24 @@
+** Desafio - informações específicas **
+
+Para praticar ainda mais a utilização de filtros no SQL, te desafio a trazer as consultas abaixo:
+
+1 - Liste os vendedores que possuem comissão menor ou igual a 8%.
+
+2 - Liste os produtos que custam menos de 6 reais e estão disponíveis em lata.
+
+3 - Mostre todos os clientes que não são de São Paulo nem do Rio de Janeiro.
+
+Resolução:
+
+1)
+SELECT * FROM [TABELA DE VENDEDORES]
+WHERE [PORCENTUAL COMISSAO] <= 0.08;
+
+2)
+SELECT * FROM [TABELA DE PRODUTOS]
+WHERE [PRECO DE LISTA] < 6.00
+AND [EMBALAGEM] = 'Lata';
+
+3)
+SELECT * FROM [TABELA DE CLIENTES]
+WHERE [ESTADO] NOT IN ('SP', 'RJ');

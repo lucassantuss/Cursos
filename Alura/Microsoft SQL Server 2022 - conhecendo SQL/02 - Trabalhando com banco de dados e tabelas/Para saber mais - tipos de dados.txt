@@ -1,0 +1,20 @@
+** Para saber mais - tipos de dados **
+
+-> Ao criar a tabela de clientes percebemos que é preciso definir não somente o nome dos campos, 
+como também o seu tipo. Logo abaixo temos uma tabela com os principais comandos para essa 
+definição. Nela podemos notar os tipos utilizados na linguagem SQL aqui no SQLServer. 
+Analise detalhadamente cada informação a seguir.
+
+Categoria				Descrição									Exemplo											Comando
+Numéricos exatos			números de vários tamanhos que podem ser formatados	9.78 pode ser definida como decimal(3,2)					bigint, int, smallint,tinyint, decimal(i,j), numeric(i,j)
+Unidades monetárias		valores que representam dinheiro					685477.58 é saldo da conta bancária definida do tipo money		money, smallmoney
+Numéricos aproximados		números de ponto flutuante com precisão			7.90 é do tipo float									float ou real
+Cadeias de caracteres		Textos de tamanhos fixos						“modelagem” se encaixa em varchar(9)						char(n)
+					Texto de tamanho variável																		varchar(n)
+Valores lógicos			Termos que representa verdadeiro ou falso															bit
+Datas					Datas, dias, mês, anos.						Calendário lunar, calendário comercial					date AAAA-MM-DD, Smalldate, Datetimeoffset
+					Tempo										10:59:13 é tipo time									time, datetime,
+
+-> Além de identificar uma coluna como texto, número ou data, escolher um tipo de dados 
+também delimita sua armazenagem no banco de dados. Isso é possível pois cada tipo já 
+possui espaços reservados em bytes.

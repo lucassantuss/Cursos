@@ -1,0 +1,19 @@
+** Para saber mais - conjunto de comandos **
+
+-> Ao longo do curso conhecemos vários comandos que exercem diferentes papéis na base 
+de dados relacional. Vimos a aplicação de cada comando nas distintas necessidades 
+da empresa Frutally, no entanto é importante que você saiba que alguns desses 
+comandos pertencem a grupos baseados no seu impacto utilizando o SQL.
+
+-> O primeiro grupo que podemos contar é o DDL, sigla para Data Definition Language 
+que pode ser traduzida do inglês como Linguagem de definição de dados. Seu 
+principal objetivo é definir a estrutura dos dados em um banco de dados. Com o 
+uso desse grupo de comandos é possível criar tabelas, definir campos, criar 
+índices e outras estruturas de dados. Os comandos que fazem parte desse grupo 
+são o CREATE, ALTER e o DROP.
+
+-> O outro grupo é focado em manipular ou manusear os dados armazenados em um banco 
+de dados. Ele é chamado de DML, que significa Data Manipulation Language ou, 
+utilizando tradução livre, linguagem de manipulação de dados. Aqui é possível 
+inserir, atualizar, excluir e selecionar dados em uma tabela. Para essas 
+aplicações, podemos utilizar o INSERT, SELECT, DELETE e o UPDATE.

@@ -1,0 +1,38 @@
+** Para saber mais - outros parâmetros **
+
+-> Nos passos anteriores aprendemos a criar um banco de dados utilizando o comando CREATE DATABASE, 
+no entanto há como personalizar o banco de dados no momento da sua criação. Para isso, dê uma 
+olhada nos parâmetros de personalização da base de dados usando SQL:
+
+- NAME: define um nome interno para a base de dados;
+- FILENAME: estabelece o caminho da pasta na qual queremos armazenar a base de dados;
+- SIZE: estipula o tamanho inicial da base de dados;
+- MAXSIZE: limita o tamanho máximo da base de dados;
+- FILEGROWTH: estipula a taxa de crescimento de armazenamento do banco de dados.
+
+-> Para exemplificação, considere um cenário em que o código abaixo é executado.
+
+CREATE DATABASE Base_Teste
+ON (NAME = 'base_de_dados_teste.DAT',
+        FILENAME = 'C:\TEMP\base_de_dados_teste.MDF',
+        SIZE = 10MB,
+        MAXSIZE = 50MB,
+        FILEGROWTH = 5MB)
+
+-> Ao realizá-lo, a criação de uma base de dados de nome Base_Teste é estabelecida e, após o ON, 
+é especificado alguns detalhes do banco como:
+
+- o arquivo será chamado de base_de_dados_teste.DAT e será armazenado no caminho 'C:\TEMP\base_de_dados_teste.MDF'.
+
+- a definição quanto ao crescimento do banco de dados, que pode se estender automaticamente em 
+incrementos de 5MB conforme necessário. O tamanho inicial desse arquivo será de 10MB e terá 
+tamanho máximo de 50MB.
+
+*Atenção:* vale ressaltar que a taxa de crescimento funciona da seguinte maneira: 
+o banco inicia com 10MB. Quando passa desse valor, ganha mais 5MB, o que não significa 
+que tenha esse valor em dados, mas sim uma área reservada. Quando essa área reservada 
+for preenchida e chegar em 15, ele recebe mais 5, somando 20. Assim os valores são 
+sucessivamente adquiridos até atingir os 50MB definidos como tamanho máximo.
+
+Para conferir essas e outras configurações de uma base de dados, clique na documentação da Microsoft.
+- https://learn.microsoft.com/pt-br/sql/t-sql/statements/create-database-transact-sql?view=sql-server-ver16&tabs=sqlpool
