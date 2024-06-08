@@ -1,0 +1,5 @@
+Amazon Q Developer
+> https://aws.amazon.com/pt/q/developer/
+
+Amazon Q Business Lite
+> https://aws.amazon.com/pt/q/business/
