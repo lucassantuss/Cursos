@@ -1,0 +1,12 @@
+** Desafio - categorias dos produtos **
+
+Tendo em conta nossa tabela de produtos, execute uma consulta para obter o número de sabores existentes. 
+Especifique o SQL que você executou para obter o resultado e a resposta propriamente dita.
+
+-> Resolução:
+
+SELECT COUNT(DISTINCT SABOR) AS [QUANTIDADE DE SABORES] FROM TABELA_DE_PRODUTOS;
+
+ou pra mostrar todos os tipos de sabor, além da quantidade..
+
+SELECT DISTINCT SABOR FROM TABELA_DE_PRODUTOS;

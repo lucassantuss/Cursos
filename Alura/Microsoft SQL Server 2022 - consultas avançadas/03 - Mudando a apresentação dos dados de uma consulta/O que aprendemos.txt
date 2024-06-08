@@ -1,0 +1,14 @@
+O que aprendemos?
+
+- Utilizar a usar cláusula DISTINCT;
+
+- Delimitar a saída da consulta usando WHERE e TOP;
+
+- Ordenar a saída do SELECT com o ORDER BY;
+
+- Agrupar linhas da tabela com a cláusula GROUP BY;
+
+- Utilizar a cláusula HAVING para retornar linhas onde os valores 
+agregados atendem à determinada condição;
+
+- Reconhecer como classificar os campos.

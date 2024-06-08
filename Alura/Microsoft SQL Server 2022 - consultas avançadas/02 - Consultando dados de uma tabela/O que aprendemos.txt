@@ -1,0 +1,11 @@
+O que aprendemos?
+
+- Compreender sobre como realizar consultas simples em uma tabela;
+
+- Usar filtros em consultas;
+
+- Identificar e Aprender a usar filtros quantitativos nas consultas;
+
+- Aplicar expressões lógicas nas consultas;
+
+- Utilizar a expressão LIKE e mesclar todos os filtros.

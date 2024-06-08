@@ -1,0 +1,43 @@
+** Desafio: resolvendo expressões lógicas **
+
+Veja o texto abaixo:
+
+Se o aluno tiver 18 anos ou mais ou for formado em Inglês ele pode ir para a Escola 
+de Estudos Astronômicos. Ou se ele tiver menos de 18 anos e for formado em Alemão, 
+então deve ir para a Escola de Estudos Supersônicos.
+
+O aluno tem 17 anos e é formado em Inglês. Esta expressão será verdadeira ou falsa?
+
+
+-> Resolução:
+
+Expressão verdadeira
+
+
+-> Explicação do Instrutor:
+
+Vamos montar a expressão lógica..
+
+Se o Aluno tiver 18 anos ou mais ou for formado em Inglês = (IDADE ALUNO >= 18 OR FORMADO = "INGLÊS")
+
+Se o Aluno tiver menos de 18 e for formado em alemão = (IDADE ALUNO < 18 AND FORMADO = "ALEMÃO")
+
+Juntando as duas informações teremos:
+
+(IDADE ALUNO >= 18 OR FORMADO = "INGLÊS") OR (IDADE ALUNO < 18 AND FORMADO = "ALEMÃO")
+
+IDADE ALUNO = 17 anos
+
+FORMADO = "INGLÊS"
+
+Logo:
+
+(17 >= 18 OR "INGLÊS" = "INGLÊS") OR (17 < 18 AND "INGLÊS" = "ALEMÃO")
+
+( Falso OR Verdadeiro) OR (Verdadeiro AND Falso)
+
+(Verdadeiro) OR (Falso)
+
+(Verdadeiro)
+
+Diante dessas linhas de raciocínio, portanto, podemos dizer que a expressão é VERDADEIRA

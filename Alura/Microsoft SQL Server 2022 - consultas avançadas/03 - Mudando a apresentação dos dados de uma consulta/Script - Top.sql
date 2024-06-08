@@ -1,0 +1,6 @@
+-- Limitando a quantidade de registros exibidos - TOP
+SELECT * FROM TABELA_DE_PRODUTOS;
+
+SELECT TOP 5 * FROM TABELA_DE_PRODUTOS;
+
+SELECT TOP 5 * FROM TABELA_DE_PRODUTOS WHERE SABOR = 'Maca';

@@ -1,0 +1,13 @@
+** Desafio - quantidade de vendas **
+
+Cada item da nota fiscal representa 1 venda de um determinado produto. 
+Vimos no exercício anterior que temos várias vendas com quantidade igual 
+a 99 litros para o produto '1101035'.
+
+Pergunto: Quantas vendas foram feitas com quantidade igual a 99 litros para o produto '1101035'?
+
+Resolução:
+
+SELECT COUNT(*) FROM ITENS_NOTAS_FISCAIS WHERE CODIGO_DO_PRODUTO = '1101035' AND QUANTIDADE = 99;
+
+Total de 79 vendas para o produto '1101035'

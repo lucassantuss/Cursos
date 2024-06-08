@@ -1,0 +1,5 @@
+O que aprendemos?
+
+- Relembrar a História do SQL;
+
+- Esquematizar e preparar o ambiente para este curso.

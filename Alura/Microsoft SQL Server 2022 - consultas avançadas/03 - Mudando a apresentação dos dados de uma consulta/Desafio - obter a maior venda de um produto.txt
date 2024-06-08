@@ -1,0 +1,18 @@
+** Desafio - obter a maior venda de um produto **
+
+Utilizando o banco de dados trabalhado em aula, execute duas querys SQL e identifique:
+
+Qual foi a maior venda do produto "Linha Refrescante - 1 Litro - Morango/Limao" em quantidade?
+
+Resolução:
+
+SELECT * FROM TABELA_DE_PRODUTOS 
+WHERE NOME_DO_PRODUTO = 'Linha Refrescante - 1 Litro - Morango/Limao';
+
+Com o código '1101035' obtido da query anterior
+
+SELECT * FROM ITENS_NOTAS_FISCAIS
+WHERE CODIGO_DO_PRODUTO = '1101035'
+ORDER BY QUANTIDADE DESC;
+
+Maior quantidade foi 99

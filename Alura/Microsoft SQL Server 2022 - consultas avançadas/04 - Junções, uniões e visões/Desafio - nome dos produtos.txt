@@ -1,0 +1,24 @@
+** Desafio - nome dos produtos **
+
+Em exercícios anteriores, pretendíamos obter os produtos que venderam mais 
+que 394000 litros e para isso executamos a seguinte consulta.
+
+SELECT CODIGO_DO_PRODUTO, SUM(QUANTIDADE) AS QUANTIDADE FROM ITENS_NOTAS_FISCAIS 
+GROUP BY CODIGO_DO_PRODUTO HAVING SUM(QUANTIDADE) > 394000 
+ORDER BY SUM(QUANTIDADE) DESC;
+
+Dito isso, e levando em consideração os comandos da consulta, desejamos que 
+na resposta desta consulta apareça não somente o código do produto, 
+mas também o nome do produto.
+
+Com este cenário em mente, como podemos resolver esse tipo de solicitação?
+
+Resolução:
+
+SELECT INF.CODIGO_DO_PRODUTO, P.NOME_DO_PRODUTO, SUM(INF.QUANTIDADE) AS QUANTIDADE
+FROM TABELA_DE_PRODUTOS P
+INNER JOIN ITENS_NOTAS_FISCAIS INF
+ON INF.CODIGO_DO_PRODUTO = P.CODIGO_DO_PRODUTO
+GROUP BY INF.CODIGO_DO_PRODUTO, P.NOME_DO_PRODUTO
+HAVING SUM(INF.QUANTIDADE) > 394000
+ORDER BY SUM(INF.QUANTIDADE) DESC;

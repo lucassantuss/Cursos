@@ -1,0 +1,14 @@
+** Desafio - produtos mais vendidos **
+
+Vamos voltar aos itens das notas fiscais.
+Os dois exercícios anteriores olharam as vendas do produto '1101035'. 
+Mas nossa empresa vendeu mais produtos.
+
+Verifique as quantidades totais de vendas de cada produto e ordene do maior para o menor.
+
+Resolução:
+
+SELECT CODIGO_DO_PRODUTO, SUM(QUANTIDADE) AS QUANTIDADE
+FROM ITENS_NOTAS_FISCAIS
+GROUP BY CODIGO_DO_PRODUTO
+ORDER BY SUM(QUANTIDADE) DESC;

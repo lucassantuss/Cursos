@@ -1,0 +1,12 @@
+** Desafio - filtrando os produtos mais vendidos **
+
+Vimos os produtos mais vendidos no exercício anterior. 
+Agora, liste somente os produtos que venderam mais que 394000 unidades.
+
+Resolução:
+
+SELECT CODIGO_DO_PRODUTO, SUM(QUANTIDADE) AS QUANTIDADE
+FROM ITENS_NOTAS_FISCAIS
+GROUP BY CODIGO_DO_PRODUTO
+HAVING SUM(QUANTIDADE) > 394000
+ORDER BY SUM(QUANTIDADE) DESC;
