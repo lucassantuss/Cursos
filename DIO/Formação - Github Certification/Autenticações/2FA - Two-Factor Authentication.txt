@@ -1,0 +1,7 @@
+**no github, ir em Password and Authentication
+
+2FA (Two-Factor Authentication)
+
+Scannear o QR Code pelo Microsoft Authenticator para habilitar o 2FA
+
+sempre que for usar, terá que inserir o codigo gerado no aplicativo

@@ -1,0 +1,7 @@
+TAGS
+
+-> marcar versões estáveis de um projeto
+
+git tag -a v1.1 -m "Versão 1.1"
+
+git push origin v1.1

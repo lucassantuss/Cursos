@@ -1,0 +1,30 @@
+**gerando chave SSH
+
+ssh-keygen
+enter pro local da pasta
+** colocar senha se necessário
+
+chave gerada na pasta .ssh
+
+chave pública e privada (usar a pública)
+
+** na pasta do ssh, abrir o git e...
+
+cat [nome_arquivoSSH] [chave-SSH]
+
+** no github, ir em...
+-> Chaves SSH e GPG
+-> Add new SSH Key
+-> Titulo, Chave de Autenticação, [chave-SSH]
+
+** no git, tentar novamente o git push, agora que tem a permissão disponivel
+
+erro de permissão pra realizar o git push nesse outro repositorio
+
+// troca do URL do repositório
+deve-se realizar pelo SSH ao inves do HTTPS
+
+git remote set-url origin [chave-SSH-Repository]
+
+git push origin main
+yes (question for security)

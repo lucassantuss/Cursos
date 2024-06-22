@@ -1,0 +1,5 @@
+WIKIS
+
+semelhante ao README do repositório, realizar documentação do repositório, com possibilidade maior de opções
+
+-> Documentação do seu projeto

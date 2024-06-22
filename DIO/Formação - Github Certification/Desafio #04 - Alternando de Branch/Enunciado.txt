@@ -1,0 +1,22 @@
+** Descrição
+Você precisa mudar para uma branch específica em seu repositório 
+Git localmente. Para isso, você vai receber como entrada o nome da 
+branch que deseja acessar e deverá retornar o comando Git necessário 
+para mudar para essa branch.
+
+** Entrada
+A entrada consiste no nome da branch que deseja acessar.
+
+** Saída
+A saída esperada é o comando Git completo que deve ser utilizado para 
+mudar para a branch especificada.
+
+** Exemplos
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas 
+respectivas saídas esperadas. Certifique-se de testar seu programa com 
+esses exemplos e com outros casos possíveis.
+
+Entrada					Saída
+refactor/code-clean			git checkout refactor/code-clean
+release/version-1.0			git checkout release/version-1.0
+test/automated-tests			git checkout test/automated-tests

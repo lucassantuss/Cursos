@@ -1,0 +1,12 @@
+GISTS
+
+compartilhar pequenos trechos de código / scripts
+
+https://gists.github.com/lucassantuss
+
+** adicionando novo GIST
+
+-> description
+-> nome e tipo do arquivo (script.js)
+-> code of gist
+-> create secret/public gist

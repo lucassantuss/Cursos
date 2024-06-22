@@ -1,0 +1,12 @@
+RELEASES
+
+maneira descritiva de apresentar a versão do código
+
+**no github, em releases
+
+create a new release
+select the tag associate
+
+preencher titulo e descrição da release (pode incluir também arquivos e docs)
+
+confirm release

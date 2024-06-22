@@ -1,0 +1,23 @@
+** Descrição
+Você precisa adicionar arquivos ao seu repositório Git localmente. 
+Para isso, você vai receber como entrada o nome dos arquivos ou o 
+padrão para adição e deverá retornar o comando Git necessário para 
+adicionar esses arquivos.
+
+** Entrada
+A entrada consiste no nome dos arquivos ou no padrão para adição, 
+por exemplo, . para adicionar todos os arquivos.
+
+** Saída
+A saída esperada é o comando Git completo que deve ser utilizado 
+para adicionar os arquivos especificados.
+
+** Exemplos
+A tabela abaixo apresenta exemplos com alguns dados de entrada e 
+suas respectivas saídas esperadas. Certifique-se de testar seu 
+programa com esses exemplos e com outros casos possíveis.
+
+Entrada			Saída
+.				git add .
+text.txt			git add text.txt
+script.js			git add script.js

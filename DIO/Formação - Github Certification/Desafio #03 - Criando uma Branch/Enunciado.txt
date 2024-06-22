@@ -1,0 +1,21 @@
+** Descrição
+Você precisa criar uma nova branch em seu repositório Git localmente. 
+Para isso, você vai receber como entrada o nome da nova branch e 
+deverá retornar o comando Git necessário para criar essa branch.
+
+** Entrada
+A entrada consiste no nome da nova branch que deseja criar.
+
+** Saída
+A saída esperada é o comando Git completo que deve ser utilizado para 
+criar a nova branch.
+
+** Exemplos
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas 
+respectivas saídas esperadas. Certifique-se de testar seu programa com 
+esses exemplos e com outros casos possíveis.
+
+Entrada				Saída
+feature/new-feature		git branch feature/new-feature
+hotfix/bug-fix			git branch hotfix/bug-fix
+docs/update			git branch docs/update

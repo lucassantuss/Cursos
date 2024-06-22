@@ -1,0 +1,17 @@
+ISSUES
+
+apontar melhorias / correção de bugs / tarefas associadas
+
+** no github, ir em issues do repositório
+
+-> new issue
+add a title
+add a description
+
+submit new issue
+
+** na visão do dono do repositório, ele pode...
+
+designar a tarefa para determinado usuario
+etiquetas com bug, development, documentation, etc
+nome do projeto

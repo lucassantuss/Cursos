@@ -1,0 +1,24 @@
+** Descrição
+Imagine que você começou um Bootcamp na DIO e precisa clonar 
+localmente os repositórios dos Desafios de Projeto hospedados 
+no GitHub. Para isso, você vai receber como entrada a URL do 
+repositório e deverá retornar o comando Git necessário para 
+criar uma cópia do repositório na sua máquina.
+
+** Entrada
+A entrada consiste na URL completa do repositório Git, por 
+exemplo, https://github.com/alinealien/desafio-github-markdown.
+
+** Saída
+A saída esperada é o comando Git completo que deve ser utilizado 
+para clonar o repositório fornecido.
+
+** Exemplos
+A tabela abaixo apresenta exemplos com alguns dados de entrada e 
+suas respectivas saídas esperadas. Certifique-se de testar seu 
+programa com esses exemplos e com outros casos possíveis.
+
+Entrada												Saída
+https://github.com/alinealien/desafio-github-markdown				git clone https://github.com/alinealien/desafio-github-markdown
+https://github.com/digitalinnovationone/dio-lab-open-source			git clone https://github.com/digitalinnovationone/dio-lab-open-source
+https://github.com/elidianaandrade/dio-curso-git-github			git clone https://github.com/elidianaandrade/dio-curso-git-github

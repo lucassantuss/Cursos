@@ -1,0 +1,10 @@
+** no GIT BASH
+
+-> Configurações na Máquina
+git config --global user.name "lucas"
+git config --global user.email "lucassantuss@outlook.com"
+
+git config --list
+
+-> Versão do Git
+git --version
