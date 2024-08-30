@@ -1,0 +1,3 @@
+Hooks references | React (UseState...)
+
+https://pt-br.legacy.reactjs.org/docs/hooks-reference.html#functional-updates

@@ -1,0 +1,4 @@
+Comando para criar
+-> "organo" é o nome do projeto
+
+npx create-react-app organo
