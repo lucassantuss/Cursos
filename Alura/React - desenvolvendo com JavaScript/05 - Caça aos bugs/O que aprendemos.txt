@@ -1,0 +1,7 @@
+O que aprendemos?
+
+Nessa aula, você aprendeu como:
+
+-> Ler e interpretar mensagens de erro;
+-> Corrigir erros;
+-> Depurar o seu código com o debugger.

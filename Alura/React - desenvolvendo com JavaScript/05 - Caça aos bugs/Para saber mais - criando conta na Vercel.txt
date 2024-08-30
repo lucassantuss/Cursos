@@ -1,0 +1,11 @@
+** Para saber mais - criando conta na Vercel **
+
+-> Primeiro passo para você criar uma conta no Vercel é acessar o site do Vercel 
+através deste link (https://vercel.com/) e clicar em Sign up.
+
+-> Após clicar em Sign up, você verá uma página como essa:
+
+-> Então, clique em continuar com GitHub e pronto! Sua conta foi criada, 
+agora é só utilizar os serviços da Vercel. :)
+
+Em caso de dúvidas, conte sempre com o fórum e a comunidade da Alura!
