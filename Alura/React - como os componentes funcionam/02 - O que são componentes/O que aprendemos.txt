@@ -1,0 +1,9 @@
+O que aprendemos?
+
+Nessa aula, você aprendeu:
+
+-> Como criar uma nova prop;
+-> Como passar esta prop para inúmeros componentes;
+-> O que é uma closure e como utilizá-la a seu favor;
+-> Como instalar novas dependências na sua aplicação;
+-> Diferença entre export e export default.

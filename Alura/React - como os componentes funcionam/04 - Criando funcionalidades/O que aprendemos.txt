@@ -1,0 +1,7 @@
+O que aprendemos?
+
+Nessa aula, você aprendeu:
+
+-> A diferença entre two-way data binding e one-way data binding;
+-> Por que o React utiliza one-way data binding;
+-> Por que utilizar id é importante no React.

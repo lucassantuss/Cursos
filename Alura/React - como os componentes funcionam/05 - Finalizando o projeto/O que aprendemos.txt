@@ -1,0 +1,8 @@
+O que aprendemos?
+
+Nessa aula, você aprendeu:
+
+-> Como criar um ternário para renderizar de forma opcional;
+-> Como renderizar condicionais de outras formas;
+-> Como refatorar um componente sem atrapalhar a execução primária dele;
+-> A importância de se refatorar um componente em projetos React.
