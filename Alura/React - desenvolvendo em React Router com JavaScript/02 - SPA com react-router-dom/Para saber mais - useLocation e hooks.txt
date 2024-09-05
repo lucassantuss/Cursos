@@ -1,0 +1,8 @@
+** Para saber mais - useLocation e hooks **
+
+O React tem seus próprios hooks nativos, como useState e useEffect, mas é comum que 
+bibliotecas feitas para o React forneçam mais hooks para nós utilizarmos. Foi 
+exatamente o nosso caso, onde utilizamos o hook useLocation do react-router-dom.
+
+Você pode revisar como funcionam os hooks do React:
+> https://www.alura.com.br/artigos/react-hooks

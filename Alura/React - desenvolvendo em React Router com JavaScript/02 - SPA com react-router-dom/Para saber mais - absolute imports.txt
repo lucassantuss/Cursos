@@ -1,0 +1,4 @@
+** Para saber mais - absolute imports **
+
+Você sempre pode consultar a configuração dos absolute imports na documentação.
+> https://create-react-app.dev/docs/importing-a-component/#absolute-imports

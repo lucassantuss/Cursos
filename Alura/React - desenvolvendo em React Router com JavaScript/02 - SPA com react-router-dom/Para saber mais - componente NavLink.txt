@@ -1,0 +1,8 @@
+** Para saber mais - componente NavLink **
+
+No vídeo anterior, utilizamos o hook useLocation para obter a rota atual e conseguir 
+destacar o link ativo do menu. Porém, há uma forma alternativa de resolver esse mesmo 
+problema, utilizando o componente NavLink do react-router-dom! 
+
+Leia sobre ele na documentação:
+> https://reactrouter.com/en/main/components/nav-links

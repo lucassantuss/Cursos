@@ -1,0 +1,9 @@
+** Para saber mais - pacote SVGR **
+
+A sintaxe import { ReactComponent as NomeDoComponente } from 'caminho_do_componente'; 
+é possível devido ao pacote SVGR, que já vem por padrão em um projeto React. Esse 
+pacote permite que utilizemos um SVG como um componente React, assim não precisamos 
+utilizá-lo como uma tag img.
+
+Veja sobre o pacote SVGR:
+> https://react-svgr.com/

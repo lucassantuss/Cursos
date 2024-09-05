@@ -1,0 +1,4 @@
+** Para saber mais - formato JSON **
+
+Caso queira saber mais sobre JSON, confira o artigo O que é JSON?
+> https://www.alura.com.br/artigos/o-que-e-json
